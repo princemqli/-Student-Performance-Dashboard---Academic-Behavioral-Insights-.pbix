@@ -1,0 +1,2401 @@
+StudentID,Subject,ExamType,Score,MaxScore,Term
+STU001,Maths,Final,98,100,Term 1
+STU001,Maths,Mid Term,90,100,Term 2
+STU001,Science,Unit Test,72,100,Term 1
+STU001,Science,Unit Test,91,100,Term 2
+STU001,English,Final,86,100,Term 1
+STU001,English,Mid Term,84,100,Term 2
+STU001,Hindi,Final,94,100,Term 1
+STU001,Hindi,Mid Term,74,100,Term 2
+STU001,Social Science,Mid Term,97,100,Term 1
+STU001,Social Science,Final,82,100,Term 2
+STU001,Computer,Mid Term,65,100,Term 1
+STU001,Computer,Unit Test,98,100,Term 2
+STU002,Maths,Unit Test,62,100,Term 1
+STU002,Maths,Mid Term,60,100,Term 2
+STU002,Science,Mid Term,81,100,Term 1
+STU002,Science,Final,87,100,Term 2
+STU002,English,Mid Term,66,100,Term 1
+STU002,English,Unit Test,76,100,Term 2
+STU002,Hindi,Mid Term,56,100,Term 1
+STU002,Hindi,Mid Term,58,100,Term 2
+STU002,Social Science,Mid Term,96,100,Term 1
+STU002,Social Science,Mid Term,66,100,Term 2
+STU002,Computer,Mid Term,83,100,Term 1
+STU002,Computer,Final,62,100,Term 2
+STU003,Maths,Final,45,100,Term 1
+STU003,Maths,Final,57,100,Term 2
+STU003,Science,Unit Test,60,100,Term 1
+STU003,Science,Final,71,100,Term 2
+STU003,English,Mid Term,80,100,Term 1
+STU003,English,Unit Test,89,100,Term 2
+STU003,Hindi,Mid Term,86,100,Term 1
+STU003,Hindi,Final,76,100,Term 2
+STU003,Social Science,Mid Term,95,100,Term 1
+STU003,Social Science,Unit Test,50,100,Term 2
+STU003,Computer,Mid Term,59,100,Term 1
+STU003,Computer,Mid Term,89,100,Term 2
+STU004,Maths,Unit Test,64,100,Term 1
+STU004,Maths,Final,82,100,Term 2
+STU004,Science,Mid Term,75,100,Term 1
+STU004,Science,Final,78,100,Term 2
+STU004,English,Mid Term,72,100,Term 1
+STU004,English,Final,80,100,Term 2
+STU004,Hindi,Mid Term,67,100,Term 1
+STU004,Hindi,Final,74,100,Term 2
+STU004,Social Science,Mid Term,64,100,Term 1
+STU004,Social Science,Mid Term,59,100,Term 2
+STU004,Computer,Unit Test,91,100,Term 1
+STU004,Computer,Unit Test,65,100,Term 2
+STU005,Maths,Unit Test,92,100,Term 1
+STU005,Maths,Final,93,100,Term 2
+STU005,Science,Final,56,100,Term 1
+STU005,Science,Unit Test,58,100,Term 2
+STU005,English,Final,75,100,Term 1
+STU005,English,Mid Term,91,100,Term 2
+STU005,Hindi,Final,93,100,Term 1
+STU005,Hindi,Final,83,100,Term 2
+STU005,Social Science,Mid Term,51,100,Term 1
+STU005,Social Science,Unit Test,63,100,Term 2
+STU005,Computer,Unit Test,68,100,Term 1
+STU005,Computer,Unit Test,64,100,Term 2
+STU006,Maths,Unit Test,90,100,Term 1
+STU006,Maths,Final,53,100,Term 2
+STU006,Science,Mid Term,47,100,Term 1
+STU006,Science,Unit Test,80,100,Term 2
+STU006,English,Mid Term,89,100,Term 1
+STU006,English,Unit Test,85,100,Term 2
+STU006,Hindi,Mid Term,51,100,Term 1
+STU006,Hindi,Unit Test,81,100,Term 2
+STU006,Social Science,Mid Term,75,100,Term 1
+STU006,Social Science,Mid Term,73,100,Term 2
+STU006,Computer,Mid Term,56,100,Term 1
+STU006,Computer,Unit Test,61,100,Term 2
+STU007,Maths,Mid Term,52,100,Term 1
+STU007,Maths,Unit Test,70,100,Term 2
+STU007,Science,Mid Term,49,100,Term 1
+STU007,Science,Final,85,100,Term 2
+STU007,English,Final,48,100,Term 1
+STU007,English,Unit Test,54,100,Term 2
+STU007,Hindi,Final,64,100,Term 1
+STU007,Hindi,Unit Test,60,100,Term 2
+STU007,Social Science,Unit Test,80,100,Term 1
+STU007,Social Science,Mid Term,83,100,Term 2
+STU007,Computer,Final,95,100,Term 1
+STU007,Computer,Final,59,100,Term 2
+STU008,Maths,Final,69,100,Term 1
+STU008,Maths,Mid Term,73,100,Term 2
+STU008,Science,Mid Term,100,100,Term 1
+STU008,Science,Final,72,100,Term 2
+STU008,English,Mid Term,81,100,Term 1
+STU008,English,Final,48,100,Term 2
+STU008,Hindi,Final,92,100,Term 1
+STU008,Hindi,Unit Test,93,100,Term 2
+STU008,Social Science,Unit Test,85,100,Term 1
+STU008,Social Science,Unit Test,61,100,Term 2
+STU008,Computer,Final,50,100,Term 1
+STU008,Computer,Unit Test,60,100,Term 2
+STU009,Maths,Unit Test,80,100,Term 1
+STU009,Maths,Unit Test,55,100,Term 2
+STU009,Science,Unit Test,71,100,Term 1
+STU009,Science,Mid Term,89,100,Term 2
+STU009,English,Final,75,100,Term 1
+STU009,English,Mid Term,47,100,Term 2
+STU009,Hindi,Unit Test,63,100,Term 1
+STU009,Hindi,Final,63,100,Term 2
+STU009,Social Science,Final,100,100,Term 1
+STU009,Social Science,Mid Term,49,100,Term 2
+STU009,Computer,Final,59,100,Term 1
+STU009,Computer,Mid Term,95,100,Term 2
+STU010,Maths,Final,82,100,Term 1
+STU010,Maths,Final,96,100,Term 2
+STU010,Science,Unit Test,72,100,Term 1
+STU010,Science,Unit Test,79,100,Term 2
+STU010,English,Unit Test,86,100,Term 1
+STU010,English,Unit Test,62,100,Term 2
+STU010,Hindi,Unit Test,49,100,Term 1
+STU010,Hindi,Unit Test,55,100,Term 2
+STU010,Social Science,Mid Term,83,100,Term 1
+STU010,Social Science,Final,97,100,Term 2
+STU010,Computer,Final,63,100,Term 1
+STU010,Computer,Mid Term,52,100,Term 2
+STU011,Maths,Mid Term,89,100,Term 1
+STU011,Maths,Mid Term,89,100,Term 2
+STU011,Science,Mid Term,62,100,Term 1
+STU011,Science,Final,79,100,Term 2
+STU011,English,Mid Term,73,100,Term 1
+STU011,English,Unit Test,83,100,Term 2
+STU011,Hindi,Unit Test,72,100,Term 1
+STU011,Hindi,Final,65,100,Term 2
+STU011,Social Science,Final,61,100,Term 1
+STU011,Social Science,Unit Test,50,100,Term 2
+STU011,Computer,Unit Test,88,100,Term 1
+STU011,Computer,Final,82,100,Term 2
+STU012,Maths,Unit Test,93,100,Term 1
+STU012,Maths,Final,97,100,Term 2
+STU012,Science,Mid Term,81,100,Term 1
+STU012,Science,Unit Test,93,100,Term 2
+STU012,English,Unit Test,75,100,Term 1
+STU012,English,Final,86,100,Term 2
+STU012,Hindi,Mid Term,62,100,Term 1
+STU012,Hindi,Unit Test,82,100,Term 2
+STU012,Social Science,Mid Term,85,100,Term 1
+STU012,Social Science,Mid Term,50,100,Term 2
+STU012,Computer,Mid Term,67,100,Term 1
+STU012,Computer,Mid Term,66,100,Term 2
+STU013,Maths,Mid Term,87,100,Term 1
+STU013,Maths,Unit Test,99,100,Term 2
+STU013,Science,Unit Test,66,100,Term 1
+STU013,Science,Mid Term,89,100,Term 2
+STU013,English,Mid Term,63,100,Term 1
+STU013,English,Final,70,100,Term 2
+STU013,Hindi,Final,47,100,Term 1
+STU013,Hindi,Mid Term,50,100,Term 2
+STU013,Social Science,Mid Term,61,100,Term 1
+STU013,Social Science,Mid Term,52,100,Term 2
+STU013,Computer,Mid Term,100,100,Term 1
+STU013,Computer,Final,97,100,Term 2
+STU014,Maths,Unit Test,87,100,Term 1
+STU014,Maths,Final,74,100,Term 2
+STU014,Science,Mid Term,48,100,Term 1
+STU014,Science,Unit Test,78,100,Term 2
+STU014,English,Mid Term,84,100,Term 1
+STU014,English,Mid Term,85,100,Term 2
+STU014,Hindi,Mid Term,93,100,Term 1
+STU014,Hindi,Unit Test,58,100,Term 2
+STU014,Social Science,Mid Term,80,100,Term 1
+STU014,Social Science,Unit Test,63,100,Term 2
+STU014,Computer,Mid Term,89,100,Term 1
+STU014,Computer,Mid Term,52,100,Term 2
+STU015,Maths,Unit Test,85,100,Term 1
+STU015,Maths,Final,96,100,Term 2
+STU015,Science,Unit Test,90,100,Term 1
+STU015,Science,Unit Test,64,100,Term 2
+STU015,English,Final,45,100,Term 1
+STU015,English,Final,71,100,Term 2
+STU015,Hindi,Unit Test,59,100,Term 1
+STU015,Hindi,Unit Test,74,100,Term 2
+STU015,Social Science,Unit Test,86,100,Term 1
+STU015,Social Science,Unit Test,76,100,Term 2
+STU015,Computer,Final,63,100,Term 1
+STU015,Computer,Final,90,100,Term 2
+STU016,Maths,Mid Term,71,100,Term 1
+STU016,Maths,Mid Term,75,100,Term 2
+STU016,Science,Unit Test,74,100,Term 1
+STU016,Science,Final,54,100,Term 2
+STU016,English,Mid Term,57,100,Term 1
+STU016,English,Final,77,100,Term 2
+STU016,Hindi,Final,53,100,Term 1
+STU016,Hindi,Unit Test,62,100,Term 2
+STU016,Social Science,Mid Term,66,100,Term 1
+STU016,Social Science,Final,62,100,Term 2
+STU016,Computer,Unit Test,63,100,Term 1
+STU016,Computer,Final,64,100,Term 2
+STU017,Maths,Final,82,100,Term 1
+STU017,Maths,Final,76,100,Term 2
+STU017,Science,Unit Test,73,100,Term 1
+STU017,Science,Final,75,100,Term 2
+STU017,English,Mid Term,66,100,Term 1
+STU017,English,Final,93,100,Term 2
+STU017,Hindi,Final,69,100,Term 1
+STU017,Hindi,Mid Term,65,100,Term 2
+STU017,Social Science,Unit Test,89,100,Term 1
+STU017,Social Science,Unit Test,81,100,Term 2
+STU017,Computer,Mid Term,59,100,Term 1
+STU017,Computer,Mid Term,47,100,Term 2
+STU018,Maths,Mid Term,92,100,Term 1
+STU018,Maths,Mid Term,90,100,Term 2
+STU018,Science,Mid Term,69,100,Term 1
+STU018,Science,Final,95,100,Term 2
+STU018,English,Final,54,100,Term 1
+STU018,English,Mid Term,47,100,Term 2
+STU018,Hindi,Unit Test,77,100,Term 1
+STU018,Hindi,Final,66,100,Term 2
+STU018,Social Science,Unit Test,100,100,Term 1
+STU018,Social Science,Mid Term,51,100,Term 2
+STU018,Computer,Final,74,100,Term 1
+STU018,Computer,Unit Test,91,100,Term 2
+STU019,Maths,Unit Test,71,100,Term 1
+STU019,Maths,Final,54,100,Term 2
+STU019,Science,Unit Test,75,100,Term 1
+STU019,Science,Mid Term,66,100,Term 2
+STU019,English,Final,89,100,Term 1
+STU019,English,Mid Term,86,100,Term 2
+STU019,Hindi,Unit Test,99,100,Term 1
+STU019,Hindi,Mid Term,99,100,Term 2
+STU019,Social Science,Final,99,100,Term 1
+STU019,Social Science,Final,69,100,Term 2
+STU019,Computer,Mid Term,85,100,Term 1
+STU019,Computer,Final,93,100,Term 2
+STU020,Maths,Mid Term,100,100,Term 1
+STU020,Maths,Final,47,100,Term 2
+STU020,Science,Final,49,100,Term 1
+STU020,Science,Unit Test,85,100,Term 2
+STU020,English,Final,63,100,Term 1
+STU020,English,Unit Test,92,100,Term 2
+STU020,Hindi,Unit Test,72,100,Term 1
+STU020,Hindi,Unit Test,93,100,Term 2
+STU020,Social Science,Final,90,100,Term 1
+STU020,Social Science,Unit Test,73,100,Term 2
+STU020,Computer,Unit Test,89,100,Term 1
+STU020,Computer,Mid Term,46,100,Term 2
+STU021,Maths,Unit Test,65,100,Term 1
+STU021,Maths,Unit Test,63,100,Term 2
+STU021,Science,Mid Term,68,100,Term 1
+STU021,Science,Mid Term,54,100,Term 2
+STU021,English,Unit Test,78,100,Term 1
+STU021,English,Mid Term,81,100,Term 2
+STU021,Hindi,Final,95,100,Term 1
+STU021,Hindi,Unit Test,55,100,Term 2
+STU021,Social Science,Unit Test,50,100,Term 1
+STU021,Social Science,Final,100,100,Term 2
+STU021,Computer,Mid Term,84,100,Term 1
+STU021,Computer,Final,60,100,Term 2
+STU022,Maths,Mid Term,82,100,Term 1
+STU022,Maths,Unit Test,59,100,Term 2
+STU022,Science,Mid Term,85,100,Term 1
+STU022,Science,Mid Term,74,100,Term 2
+STU022,English,Mid Term,87,100,Term 1
+STU022,English,Unit Test,96,100,Term 2
+STU022,Hindi,Mid Term,63,100,Term 1
+STU022,Hindi,Final,79,100,Term 2
+STU022,Social Science,Unit Test,49,100,Term 1
+STU022,Social Science,Mid Term,67,100,Term 2
+STU022,Computer,Final,64,100,Term 1
+STU022,Computer,Final,72,100,Term 2
+STU023,Maths,Final,61,100,Term 1
+STU023,Maths,Mid Term,99,100,Term 2
+STU023,Science,Mid Term,57,100,Term 1
+STU023,Science,Mid Term,99,100,Term 2
+STU023,English,Mid Term,51,100,Term 1
+STU023,English,Unit Test,69,100,Term 2
+STU023,Hindi,Final,67,100,Term 1
+STU023,Hindi,Final,63,100,Term 2
+STU023,Social Science,Final,63,100,Term 1
+STU023,Social Science,Unit Test,98,100,Term 2
+STU023,Computer,Final,70,100,Term 1
+STU023,Computer,Mid Term,45,100,Term 2
+STU024,Maths,Final,100,100,Term 1
+STU024,Maths,Final,94,100,Term 2
+STU024,Science,Final,48,100,Term 1
+STU024,Science,Final,92,100,Term 2
+STU024,English,Mid Term,98,100,Term 1
+STU024,English,Mid Term,94,100,Term 2
+STU024,Hindi,Unit Test,83,100,Term 1
+STU024,Hindi,Mid Term,59,100,Term 2
+STU024,Social Science,Final,57,100,Term 1
+STU024,Social Science,Final,61,100,Term 2
+STU024,Computer,Final,93,100,Term 1
+STU024,Computer,Final,94,100,Term 2
+STU025,Maths,Final,88,100,Term 1
+STU025,Maths,Unit Test,85,100,Term 2
+STU025,Science,Unit Test,85,100,Term 1
+STU025,Science,Final,47,100,Term 2
+STU025,English,Mid Term,95,100,Term 1
+STU025,English,Mid Term,47,100,Term 2
+STU025,Hindi,Final,68,100,Term 1
+STU025,Hindi,Final,53,100,Term 2
+STU025,Social Science,Unit Test,63,100,Term 1
+STU025,Social Science,Mid Term,92,100,Term 2
+STU025,Computer,Mid Term,56,100,Term 1
+STU025,Computer,Unit Test,53,100,Term 2
+STU026,Maths,Final,68,100,Term 1
+STU026,Maths,Final,77,100,Term 2
+STU026,Science,Mid Term,98,100,Term 1
+STU026,Science,Unit Test,61,100,Term 2
+STU026,English,Mid Term,96,100,Term 1
+STU026,English,Mid Term,92,100,Term 2
+STU026,Hindi,Mid Term,96,100,Term 1
+STU026,Hindi,Unit Test,74,100,Term 2
+STU026,Social Science,Unit Test,54,100,Term 1
+STU026,Social Science,Unit Test,100,100,Term 2
+STU026,Computer,Final,91,100,Term 1
+STU026,Computer,Final,70,100,Term 2
+STU027,Maths,Final,68,100,Term 1
+STU027,Maths,Unit Test,95,100,Term 2
+STU027,Science,Mid Term,45,100,Term 1
+STU027,Science,Mid Term,79,100,Term 2
+STU027,English,Unit Test,74,100,Term 1
+STU027,English,Mid Term,88,100,Term 2
+STU027,Hindi,Final,88,100,Term 1
+STU027,Hindi,Mid Term,82,100,Term 2
+STU027,Social Science,Mid Term,97,100,Term 1
+STU027,Social Science,Final,68,100,Term 2
+STU027,Computer,Unit Test,88,100,Term 1
+STU027,Computer,Unit Test,75,100,Term 2
+STU028,Maths,Unit Test,84,100,Term 1
+STU028,Maths,Final,65,100,Term 2
+STU028,Science,Final,59,100,Term 1
+STU028,Science,Final,49,100,Term 2
+STU028,English,Final,97,100,Term 1
+STU028,English,Mid Term,89,100,Term 2
+STU028,Hindi,Mid Term,86,100,Term 1
+STU028,Hindi,Mid Term,52,100,Term 2
+STU028,Social Science,Unit Test,47,100,Term 1
+STU028,Social Science,Unit Test,64,100,Term 2
+STU028,Computer,Mid Term,52,100,Term 1
+STU028,Computer,Unit Test,60,100,Term 2
+STU029,Maths,Final,53,100,Term 1
+STU029,Maths,Mid Term,74,100,Term 2
+STU029,Science,Mid Term,87,100,Term 1
+STU029,Science,Final,89,100,Term 2
+STU029,English,Final,71,100,Term 1
+STU029,English,Final,92,100,Term 2
+STU029,Hindi,Final,54,100,Term 1
+STU029,Hindi,Mid Term,86,100,Term 2
+STU029,Social Science,Unit Test,98,100,Term 1
+STU029,Social Science,Mid Term,84,100,Term 2
+STU029,Computer,Mid Term,62,100,Term 1
+STU029,Computer,Unit Test,89,100,Term 2
+STU030,Maths,Mid Term,58,100,Term 1
+STU030,Maths,Mid Term,73,100,Term 2
+STU030,Science,Unit Test,99,100,Term 1
+STU030,Science,Mid Term,51,100,Term 2
+STU030,English,Final,68,100,Term 1
+STU030,English,Final,86,100,Term 2
+STU030,Hindi,Mid Term,48,100,Term 1
+STU030,Hindi,Mid Term,62,100,Term 2
+STU030,Social Science,Unit Test,52,100,Term 1
+STU030,Social Science,Mid Term,50,100,Term 2
+STU030,Computer,Final,58,100,Term 1
+STU030,Computer,Final,85,100,Term 2
+STU031,Maths,Final,46,100,Term 1
+STU031,Maths,Unit Test,95,100,Term 2
+STU031,Science,Mid Term,60,100,Term 1
+STU031,Science,Unit Test,95,100,Term 2
+STU031,English,Final,58,100,Term 1
+STU031,English,Unit Test,98,100,Term 2
+STU031,Hindi,Final,58,100,Term 1
+STU031,Hindi,Final,58,100,Term 2
+STU031,Social Science,Unit Test,66,100,Term 1
+STU031,Social Science,Unit Test,95,100,Term 2
+STU031,Computer,Final,45,100,Term 1
+STU031,Computer,Mid Term,99,100,Term 2
+STU032,Maths,Unit Test,53,100,Term 1
+STU032,Maths,Final,61,100,Term 2
+STU032,Science,Unit Test,52,100,Term 1
+STU032,Science,Final,100,100,Term 2
+STU032,English,Unit Test,53,100,Term 1
+STU032,English,Unit Test,67,100,Term 2
+STU032,Hindi,Unit Test,82,100,Term 1
+STU032,Hindi,Mid Term,46,100,Term 2
+STU032,Social Science,Unit Test,61,100,Term 1
+STU032,Social Science,Unit Test,53,100,Term 2
+STU032,Computer,Final,71,100,Term 1
+STU032,Computer,Final,52,100,Term 2
+STU033,Maths,Final,49,100,Term 1
+STU033,Maths,Mid Term,73,100,Term 2
+STU033,Science,Mid Term,77,100,Term 1
+STU033,Science,Final,51,100,Term 2
+STU033,English,Mid Term,77,100,Term 1
+STU033,English,Unit Test,84,100,Term 2
+STU033,Hindi,Unit Test,91,100,Term 1
+STU033,Hindi,Final,78,100,Term 2
+STU033,Social Science,Mid Term,74,100,Term 1
+STU033,Social Science,Final,46,100,Term 2
+STU033,Computer,Unit Test,75,100,Term 1
+STU033,Computer,Mid Term,72,100,Term 2
+STU034,Maths,Final,51,100,Term 1
+STU034,Maths,Mid Term,90,100,Term 2
+STU034,Science,Mid Term,49,100,Term 1
+STU034,Science,Unit Test,65,100,Term 2
+STU034,English,Final,54,100,Term 1
+STU034,English,Unit Test,53,100,Term 2
+STU034,Hindi,Mid Term,84,100,Term 1
+STU034,Hindi,Final,82,100,Term 2
+STU034,Social Science,Final,90,100,Term 1
+STU034,Social Science,Mid Term,69,100,Term 2
+STU034,Computer,Final,78,100,Term 1
+STU034,Computer,Mid Term,74,100,Term 2
+STU035,Maths,Final,83,100,Term 1
+STU035,Maths,Mid Term,51,100,Term 2
+STU035,Science,Final,52,100,Term 1
+STU035,Science,Final,86,100,Term 2
+STU035,English,Final,91,100,Term 1
+STU035,English,Unit Test,72,100,Term 2
+STU035,Hindi,Mid Term,59,100,Term 1
+STU035,Hindi,Mid Term,66,100,Term 2
+STU035,Social Science,Mid Term,70,100,Term 1
+STU035,Social Science,Mid Term,91,100,Term 2
+STU035,Computer,Unit Test,65,100,Term 1
+STU035,Computer,Mid Term,65,100,Term 2
+STU036,Maths,Final,61,100,Term 1
+STU036,Maths,Mid Term,54,100,Term 2
+STU036,Science,Final,75,100,Term 1
+STU036,Science,Unit Test,50,100,Term 2
+STU036,English,Unit Test,50,100,Term 1
+STU036,English,Mid Term,51,100,Term 2
+STU036,Hindi,Final,92,100,Term 1
+STU036,Hindi,Mid Term,96,100,Term 2
+STU036,Social Science,Unit Test,80,100,Term 1
+STU036,Social Science,Unit Test,82,100,Term 2
+STU036,Computer,Final,80,100,Term 1
+STU036,Computer,Mid Term,87,100,Term 2
+STU037,Maths,Unit Test,71,100,Term 1
+STU037,Maths,Mid Term,100,100,Term 2
+STU037,Science,Final,93,100,Term 1
+STU037,Science,Mid Term,100,100,Term 2
+STU037,English,Final,48,100,Term 1
+STU037,English,Mid Term,83,100,Term 2
+STU037,Hindi,Mid Term,67,100,Term 1
+STU037,Hindi,Unit Test,81,100,Term 2
+STU037,Social Science,Final,58,100,Term 1
+STU037,Social Science,Unit Test,87,100,Term 2
+STU037,Computer,Mid Term,59,100,Term 1
+STU037,Computer,Unit Test,67,100,Term 2
+STU038,Maths,Final,68,100,Term 1
+STU038,Maths,Unit Test,93,100,Term 2
+STU038,Science,Mid Term,81,100,Term 1
+STU038,Science,Unit Test,96,100,Term 2
+STU038,English,Mid Term,99,100,Term 1
+STU038,English,Final,94,100,Term 2
+STU038,Hindi,Final,84,100,Term 1
+STU038,Hindi,Final,86,100,Term 2
+STU038,Social Science,Final,46,100,Term 1
+STU038,Social Science,Final,87,100,Term 2
+STU038,Computer,Final,62,100,Term 1
+STU038,Computer,Unit Test,56,100,Term 2
+STU039,Maths,Mid Term,89,100,Term 1
+STU039,Maths,Mid Term,66,100,Term 2
+STU039,Science,Mid Term,45,100,Term 1
+STU039,Science,Unit Test,100,100,Term 2
+STU039,English,Unit Test,81,100,Term 1
+STU039,English,Final,70,100,Term 2
+STU039,Hindi,Unit Test,54,100,Term 1
+STU039,Hindi,Final,85,100,Term 2
+STU039,Social Science,Unit Test,50,100,Term 1
+STU039,Social Science,Final,78,100,Term 2
+STU039,Computer,Unit Test,69,100,Term 1
+STU039,Computer,Mid Term,74,100,Term 2
+STU040,Maths,Mid Term,55,100,Term 1
+STU040,Maths,Mid Term,64,100,Term 2
+STU040,Science,Final,65,100,Term 1
+STU040,Science,Final,83,100,Term 2
+STU040,English,Unit Test,48,100,Term 1
+STU040,English,Unit Test,55,100,Term 2
+STU040,Hindi,Final,48,100,Term 1
+STU040,Hindi,Final,50,100,Term 2
+STU040,Social Science,Mid Term,73,100,Term 1
+STU040,Social Science,Final,72,100,Term 2
+STU040,Computer,Mid Term,83,100,Term 1
+STU040,Computer,Mid Term,71,100,Term 2
+STU041,Maths,Mid Term,58,100,Term 1
+STU041,Maths,Final,52,100,Term 2
+STU041,Science,Mid Term,72,100,Term 1
+STU041,Science,Unit Test,63,100,Term 2
+STU041,English,Final,88,100,Term 1
+STU041,English,Final,76,100,Term 2
+STU041,Hindi,Final,87,100,Term 1
+STU041,Hindi,Mid Term,47,100,Term 2
+STU041,Social Science,Unit Test,70,100,Term 1
+STU041,Social Science,Final,48,100,Term 2
+STU041,Computer,Unit Test,58,100,Term 1
+STU041,Computer,Mid Term,58,100,Term 2
+STU042,Maths,Unit Test,93,100,Term 1
+STU042,Maths,Mid Term,63,100,Term 2
+STU042,Science,Mid Term,52,100,Term 1
+STU042,Science,Unit Test,76,100,Term 2
+STU042,English,Final,72,100,Term 1
+STU042,English,Unit Test,53,100,Term 2
+STU042,Hindi,Mid Term,79,100,Term 1
+STU042,Hindi,Final,59,100,Term 2
+STU042,Social Science,Final,80,100,Term 1
+STU042,Social Science,Final,96,100,Term 2
+STU042,Computer,Mid Term,49,100,Term 1
+STU042,Computer,Mid Term,100,100,Term 2
+STU043,Maths,Final,47,100,Term 1
+STU043,Maths,Mid Term,46,100,Term 2
+STU043,Science,Mid Term,49,100,Term 1
+STU043,Science,Mid Term,81,100,Term 2
+STU043,English,Mid Term,81,100,Term 1
+STU043,English,Mid Term,90,100,Term 2
+STU043,Hindi,Final,71,100,Term 1
+STU043,Hindi,Mid Term,52,100,Term 2
+STU043,Social Science,Mid Term,46,100,Term 1
+STU043,Social Science,Mid Term,55,100,Term 2
+STU043,Computer,Final,74,100,Term 1
+STU043,Computer,Final,68,100,Term 2
+STU044,Maths,Unit Test,72,100,Term 1
+STU044,Maths,Unit Test,60,100,Term 2
+STU044,Science,Mid Term,82,100,Term 1
+STU044,Science,Mid Term,78,100,Term 2
+STU044,English,Unit Test,70,100,Term 1
+STU044,English,Mid Term,92,100,Term 2
+STU044,Hindi,Mid Term,59,100,Term 1
+STU044,Hindi,Mid Term,94,100,Term 2
+STU044,Social Science,Unit Test,49,100,Term 1
+STU044,Social Science,Final,85,100,Term 2
+STU044,Computer,Unit Test,78,100,Term 1
+STU044,Computer,Final,57,100,Term 2
+STU045,Maths,Mid Term,67,100,Term 1
+STU045,Maths,Final,97,100,Term 2
+STU045,Science,Final,97,100,Term 1
+STU045,Science,Unit Test,60,100,Term 2
+STU045,English,Unit Test,54,100,Term 1
+STU045,English,Mid Term,57,100,Term 2
+STU045,Hindi,Unit Test,83,100,Term 1
+STU045,Hindi,Unit Test,93,100,Term 2
+STU045,Social Science,Final,49,100,Term 1
+STU045,Social Science,Unit Test,94,100,Term 2
+STU045,Computer,Final,76,100,Term 1
+STU045,Computer,Mid Term,93,100,Term 2
+STU046,Maths,Final,93,100,Term 1
+STU046,Maths,Final,73,100,Term 2
+STU046,Science,Final,81,100,Term 1
+STU046,Science,Final,85,100,Term 2
+STU046,English,Final,65,100,Term 1
+STU046,English,Final,65,100,Term 2
+STU046,Hindi,Unit Test,73,100,Term 1
+STU046,Hindi,Unit Test,75,100,Term 2
+STU046,Social Science,Mid Term,85,100,Term 1
+STU046,Social Science,Mid Term,95,100,Term 2
+STU046,Computer,Mid Term,82,100,Term 1
+STU046,Computer,Unit Test,67,100,Term 2
+STU047,Maths,Final,49,100,Term 1
+STU047,Maths,Mid Term,74,100,Term 2
+STU047,Science,Mid Term,47,100,Term 1
+STU047,Science,Unit Test,68,100,Term 2
+STU047,English,Mid Term,49,100,Term 1
+STU047,English,Final,100,100,Term 2
+STU047,Hindi,Unit Test,84,100,Term 1
+STU047,Hindi,Final,77,100,Term 2
+STU047,Social Science,Mid Term,74,100,Term 1
+STU047,Social Science,Final,80,100,Term 2
+STU047,Computer,Final,47,100,Term 1
+STU047,Computer,Mid Term,96,100,Term 2
+STU048,Maths,Final,86,100,Term 1
+STU048,Maths,Unit Test,65,100,Term 2
+STU048,Science,Final,75,100,Term 1
+STU048,Science,Final,54,100,Term 2
+STU048,English,Unit Test,73,100,Term 1
+STU048,English,Unit Test,96,100,Term 2
+STU048,Hindi,Mid Term,90,100,Term 1
+STU048,Hindi,Unit Test,77,100,Term 2
+STU048,Social Science,Final,56,100,Term 1
+STU048,Social Science,Unit Test,60,100,Term 2
+STU048,Computer,Final,73,100,Term 1
+STU048,Computer,Mid Term,78,100,Term 2
+STU049,Maths,Final,84,100,Term 1
+STU049,Maths,Unit Test,68,100,Term 2
+STU049,Science,Mid Term,63,100,Term 1
+STU049,Science,Mid Term,71,100,Term 2
+STU049,English,Mid Term,88,100,Term 1
+STU049,English,Final,48,100,Term 2
+STU049,Hindi,Final,86,100,Term 1
+STU049,Hindi,Mid Term,49,100,Term 2
+STU049,Social Science,Mid Term,51,100,Term 1
+STU049,Social Science,Final,88,100,Term 2
+STU049,Computer,Mid Term,63,100,Term 1
+STU049,Computer,Mid Term,91,100,Term 2
+STU050,Maths,Final,83,100,Term 1
+STU050,Maths,Unit Test,66,100,Term 2
+STU050,Science,Unit Test,82,100,Term 1
+STU050,Science,Final,54,100,Term 2
+STU050,English,Mid Term,64,100,Term 1
+STU050,English,Final,89,100,Term 2
+STU050,Hindi,Final,70,100,Term 1
+STU050,Hindi,Unit Test,83,100,Term 2
+STU050,Social Science,Final,50,100,Term 1
+STU050,Social Science,Mid Term,80,100,Term 2
+STU050,Computer,Mid Term,86,100,Term 1
+STU050,Computer,Mid Term,97,100,Term 2
+STU051,Maths,Unit Test,87,100,Term 1
+STU051,Maths,Final,98,100,Term 2
+STU051,Science,Final,88,100,Term 1
+STU051,Science,Final,50,100,Term 2
+STU051,English,Final,87,100,Term 1
+STU051,English,Mid Term,77,100,Term 2
+STU051,Hindi,Mid Term,46,100,Term 1
+STU051,Hindi,Mid Term,64,100,Term 2
+STU051,Social Science,Unit Test,58,100,Term 1
+STU051,Social Science,Mid Term,94,100,Term 2
+STU051,Computer,Mid Term,57,100,Term 1
+STU051,Computer,Unit Test,53,100,Term 2
+STU052,Maths,Unit Test,49,100,Term 1
+STU052,Maths,Mid Term,99,100,Term 2
+STU052,Science,Unit Test,77,100,Term 1
+STU052,Science,Final,98,100,Term 2
+STU052,English,Final,78,100,Term 1
+STU052,English,Unit Test,87,100,Term 2
+STU052,Hindi,Mid Term,94,100,Term 1
+STU052,Hindi,Final,53,100,Term 2
+STU052,Social Science,Final,69,100,Term 1
+STU052,Social Science,Unit Test,55,100,Term 2
+STU052,Computer,Unit Test,98,100,Term 1
+STU052,Computer,Final,94,100,Term 2
+STU053,Maths,Final,96,100,Term 1
+STU053,Maths,Unit Test,91,100,Term 2
+STU053,Science,Mid Term,47,100,Term 1
+STU053,Science,Mid Term,68,100,Term 2
+STU053,English,Final,91,100,Term 1
+STU053,English,Unit Test,73,100,Term 2
+STU053,Hindi,Final,63,100,Term 1
+STU053,Hindi,Final,95,100,Term 2
+STU053,Social Science,Mid Term,59,100,Term 1
+STU053,Social Science,Final,60,100,Term 2
+STU053,Computer,Mid Term,96,100,Term 1
+STU053,Computer,Mid Term,98,100,Term 2
+STU054,Maths,Unit Test,68,100,Term 1
+STU054,Maths,Final,81,100,Term 2
+STU054,Science,Mid Term,74,100,Term 1
+STU054,Science,Mid Term,94,100,Term 2
+STU054,English,Mid Term,77,100,Term 1
+STU054,English,Final,71,100,Term 2
+STU054,Hindi,Unit Test,97,100,Term 1
+STU054,Hindi,Unit Test,96,100,Term 2
+STU054,Social Science,Final,53,100,Term 1
+STU054,Social Science,Mid Term,48,100,Term 2
+STU054,Computer,Final,75,100,Term 1
+STU054,Computer,Mid Term,80,100,Term 2
+STU055,Maths,Unit Test,90,100,Term 1
+STU055,Maths,Final,99,100,Term 2
+STU055,Science,Unit Test,63,100,Term 1
+STU055,Science,Unit Test,93,100,Term 2
+STU055,English,Unit Test,62,100,Term 1
+STU055,English,Mid Term,77,100,Term 2
+STU055,Hindi,Unit Test,98,100,Term 1
+STU055,Hindi,Mid Term,50,100,Term 2
+STU055,Social Science,Unit Test,97,100,Term 1
+STU055,Social Science,Mid Term,67,100,Term 2
+STU055,Computer,Unit Test,71,100,Term 1
+STU055,Computer,Unit Test,70,100,Term 2
+STU056,Maths,Final,68,100,Term 1
+STU056,Maths,Unit Test,69,100,Term 2
+STU056,Science,Unit Test,68,100,Term 1
+STU056,Science,Unit Test,46,100,Term 2
+STU056,English,Mid Term,51,100,Term 1
+STU056,English,Final,86,100,Term 2
+STU056,Hindi,Mid Term,95,100,Term 1
+STU056,Hindi,Unit Test,53,100,Term 2
+STU056,Social Science,Unit Test,63,100,Term 1
+STU056,Social Science,Mid Term,89,100,Term 2
+STU056,Computer,Unit Test,93,100,Term 1
+STU056,Computer,Final,75,100,Term 2
+STU057,Maths,Mid Term,84,100,Term 1
+STU057,Maths,Unit Test,50,100,Term 2
+STU057,Science,Unit Test,61,100,Term 1
+STU057,Science,Unit Test,98,100,Term 2
+STU057,English,Unit Test,80,100,Term 1
+STU057,English,Final,83,100,Term 2
+STU057,Hindi,Final,72,100,Term 1
+STU057,Hindi,Unit Test,94,100,Term 2
+STU057,Social Science,Mid Term,60,100,Term 1
+STU057,Social Science,Mid Term,52,100,Term 2
+STU057,Computer,Unit Test,60,100,Term 1
+STU057,Computer,Mid Term,85,100,Term 2
+STU058,Maths,Final,74,100,Term 1
+STU058,Maths,Unit Test,52,100,Term 2
+STU058,Science,Mid Term,83,100,Term 1
+STU058,Science,Final,46,100,Term 2
+STU058,English,Final,77,100,Term 1
+STU058,English,Final,60,100,Term 2
+STU058,Hindi,Final,54,100,Term 1
+STU058,Hindi,Mid Term,72,100,Term 2
+STU058,Social Science,Unit Test,84,100,Term 1
+STU058,Social Science,Mid Term,60,100,Term 2
+STU058,Computer,Final,71,100,Term 1
+STU058,Computer,Unit Test,87,100,Term 2
+STU059,Maths,Final,50,100,Term 1
+STU059,Maths,Final,68,100,Term 2
+STU059,Science,Unit Test,78,100,Term 1
+STU059,Science,Final,77,100,Term 2
+STU059,English,Final,80,100,Term 1
+STU059,English,Unit Test,69,100,Term 2
+STU059,Hindi,Mid Term,47,100,Term 1
+STU059,Hindi,Final,69,100,Term 2
+STU059,Social Science,Mid Term,61,100,Term 1
+STU059,Social Science,Final,46,100,Term 2
+STU059,Computer,Mid Term,95,100,Term 1
+STU059,Computer,Unit Test,67,100,Term 2
+STU060,Maths,Unit Test,91,100,Term 1
+STU060,Maths,Final,85,100,Term 2
+STU060,Science,Unit Test,94,100,Term 1
+STU060,Science,Final,92,100,Term 2
+STU060,English,Mid Term,53,100,Term 1
+STU060,English,Unit Test,67,100,Term 2
+STU060,Hindi,Final,66,100,Term 1
+STU060,Hindi,Final,56,100,Term 2
+STU060,Social Science,Final,74,100,Term 1
+STU060,Social Science,Final,75,100,Term 2
+STU060,Computer,Final,56,100,Term 1
+STU060,Computer,Unit Test,49,100,Term 2
+STU061,Maths,Final,94,100,Term 1
+STU061,Maths,Mid Term,47,100,Term 2
+STU061,Science,Mid Term,57,100,Term 1
+STU061,Science,Unit Test,95,100,Term 2
+STU061,English,Unit Test,47,100,Term 1
+STU061,English,Mid Term,64,100,Term 2
+STU061,Hindi,Final,70,100,Term 1
+STU061,Hindi,Final,75,100,Term 2
+STU061,Social Science,Mid Term,47,100,Term 1
+STU061,Social Science,Final,57,100,Term 2
+STU061,Computer,Mid Term,67,100,Term 1
+STU061,Computer,Unit Test,100,100,Term 2
+STU062,Maths,Final,66,100,Term 1
+STU062,Maths,Mid Term,52,100,Term 2
+STU062,Science,Mid Term,72,100,Term 1
+STU062,Science,Mid Term,92,100,Term 2
+STU062,English,Mid Term,69,100,Term 1
+STU062,English,Mid Term,56,100,Term 2
+STU062,Hindi,Mid Term,89,100,Term 1
+STU062,Hindi,Mid Term,68,100,Term 2
+STU062,Social Science,Final,62,100,Term 1
+STU062,Social Science,Unit Test,91,100,Term 2
+STU062,Computer,Mid Term,50,100,Term 1
+STU062,Computer,Mid Term,83,100,Term 2
+STU063,Maths,Unit Test,79,100,Term 1
+STU063,Maths,Mid Term,65,100,Term 2
+STU063,Science,Unit Test,50,100,Term 1
+STU063,Science,Mid Term,87,100,Term 2
+STU063,English,Mid Term,64,100,Term 1
+STU063,English,Mid Term,83,100,Term 2
+STU063,Hindi,Final,72,100,Term 1
+STU063,Hindi,Unit Test,89,100,Term 2
+STU063,Social Science,Mid Term,67,100,Term 1
+STU063,Social Science,Mid Term,47,100,Term 2
+STU063,Computer,Final,100,100,Term 1
+STU063,Computer,Mid Term,84,100,Term 2
+STU064,Maths,Mid Term,62,100,Term 1
+STU064,Maths,Final,95,100,Term 2
+STU064,Science,Unit Test,49,100,Term 1
+STU064,Science,Final,85,100,Term 2
+STU064,English,Mid Term,68,100,Term 1
+STU064,English,Final,96,100,Term 2
+STU064,Hindi,Final,88,100,Term 1
+STU064,Hindi,Unit Test,46,100,Term 2
+STU064,Social Science,Unit Test,99,100,Term 1
+STU064,Social Science,Final,88,100,Term 2
+STU064,Computer,Mid Term,47,100,Term 1
+STU064,Computer,Unit Test,49,100,Term 2
+STU065,Maths,Unit Test,94,100,Term 1
+STU065,Maths,Final,68,100,Term 2
+STU065,Science,Mid Term,69,100,Term 1
+STU065,Science,Final,47,100,Term 2
+STU065,English,Final,54,100,Term 1
+STU065,English,Final,73,100,Term 2
+STU065,Hindi,Mid Term,68,100,Term 1
+STU065,Hindi,Mid Term,93,100,Term 2
+STU065,Social Science,Unit Test,81,100,Term 1
+STU065,Social Science,Unit Test,78,100,Term 2
+STU065,Computer,Mid Term,70,100,Term 1
+STU065,Computer,Mid Term,86,100,Term 2
+STU066,Maths,Mid Term,60,100,Term 1
+STU066,Maths,Unit Test,46,100,Term 2
+STU066,Science,Final,56,100,Term 1
+STU066,Science,Mid Term,78,100,Term 2
+STU066,English,Mid Term,80,100,Term 1
+STU066,English,Unit Test,61,100,Term 2
+STU066,Hindi,Mid Term,90,100,Term 1
+STU066,Hindi,Mid Term,58,100,Term 2
+STU066,Social Science,Final,63,100,Term 1
+STU066,Social Science,Final,76,100,Term 2
+STU066,Computer,Unit Test,52,100,Term 1
+STU066,Computer,Unit Test,99,100,Term 2
+STU067,Maths,Unit Test,73,100,Term 1
+STU067,Maths,Unit Test,90,100,Term 2
+STU067,Science,Mid Term,50,100,Term 1
+STU067,Science,Final,99,100,Term 2
+STU067,English,Mid Term,87,100,Term 1
+STU067,English,Mid Term,90,100,Term 2
+STU067,Hindi,Unit Test,80,100,Term 1
+STU067,Hindi,Final,63,100,Term 2
+STU067,Social Science,Mid Term,99,100,Term 1
+STU067,Social Science,Unit Test,90,100,Term 2
+STU067,Computer,Final,89,100,Term 1
+STU067,Computer,Final,56,100,Term 2
+STU068,Maths,Mid Term,77,100,Term 1
+STU068,Maths,Unit Test,52,100,Term 2
+STU068,Science,Unit Test,95,100,Term 1
+STU068,Science,Unit Test,60,100,Term 2
+STU068,English,Mid Term,46,100,Term 1
+STU068,English,Mid Term,80,100,Term 2
+STU068,Hindi,Final,68,100,Term 1
+STU068,Hindi,Mid Term,96,100,Term 2
+STU068,Social Science,Final,53,100,Term 1
+STU068,Social Science,Final,50,100,Term 2
+STU068,Computer,Unit Test,64,100,Term 1
+STU068,Computer,Mid Term,90,100,Term 2
+STU069,Maths,Final,75,100,Term 1
+STU069,Maths,Final,71,100,Term 2
+STU069,Science,Mid Term,97,100,Term 1
+STU069,Science,Final,49,100,Term 2
+STU069,English,Unit Test,65,100,Term 1
+STU069,English,Final,49,100,Term 2
+STU069,Hindi,Mid Term,74,100,Term 1
+STU069,Hindi,Final,78,100,Term 2
+STU069,Social Science,Mid Term,53,100,Term 1
+STU069,Social Science,Final,85,100,Term 2
+STU069,Computer,Final,56,100,Term 1
+STU069,Computer,Unit Test,72,100,Term 2
+STU070,Maths,Final,100,100,Term 1
+STU070,Maths,Unit Test,98,100,Term 2
+STU070,Science,Unit Test,78,100,Term 1
+STU070,Science,Unit Test,64,100,Term 2
+STU070,English,Unit Test,55,100,Term 1
+STU070,English,Mid Term,90,100,Term 2
+STU070,Hindi,Unit Test,67,100,Term 1
+STU070,Hindi,Final,63,100,Term 2
+STU070,Social Science,Unit Test,61,100,Term 1
+STU070,Social Science,Unit Test,85,100,Term 2
+STU070,Computer,Final,62,100,Term 1
+STU070,Computer,Unit Test,85,100,Term 2
+STU071,Maths,Mid Term,84,100,Term 1
+STU071,Maths,Final,50,100,Term 2
+STU071,Science,Final,86,100,Term 1
+STU071,Science,Unit Test,82,100,Term 2
+STU071,English,Final,54,100,Term 1
+STU071,English,Unit Test,87,100,Term 2
+STU071,Hindi,Final,91,100,Term 1
+STU071,Hindi,Final,66,100,Term 2
+STU071,Social Science,Final,47,100,Term 1
+STU071,Social Science,Unit Test,50,100,Term 2
+STU071,Computer,Unit Test,86,100,Term 1
+STU071,Computer,Final,61,100,Term 2
+STU072,Maths,Final,58,100,Term 1
+STU072,Maths,Final,71,100,Term 2
+STU072,Science,Final,85,100,Term 1
+STU072,Science,Unit Test,76,100,Term 2
+STU072,English,Final,79,100,Term 1
+STU072,English,Mid Term,86,100,Term 2
+STU072,Hindi,Mid Term,75,100,Term 1
+STU072,Hindi,Unit Test,96,100,Term 2
+STU072,Social Science,Final,70,100,Term 1
+STU072,Social Science,Mid Term,74,100,Term 2
+STU072,Computer,Unit Test,89,100,Term 1
+STU072,Computer,Unit Test,55,100,Term 2
+STU073,Maths,Mid Term,71,100,Term 1
+STU073,Maths,Mid Term,74,100,Term 2
+STU073,Science,Unit Test,66,100,Term 1
+STU073,Science,Final,54,100,Term 2
+STU073,English,Mid Term,100,100,Term 1
+STU073,English,Final,65,100,Term 2
+STU073,Hindi,Final,100,100,Term 1
+STU073,Hindi,Mid Term,70,100,Term 2
+STU073,Social Science,Unit Test,93,100,Term 1
+STU073,Social Science,Mid Term,77,100,Term 2
+STU073,Computer,Final,51,100,Term 1
+STU073,Computer,Mid Term,60,100,Term 2
+STU074,Maths,Mid Term,52,100,Term 1
+STU074,Maths,Mid Term,73,100,Term 2
+STU074,Science,Unit Test,54,100,Term 1
+STU074,Science,Unit Test,48,100,Term 2
+STU074,English,Mid Term,69,100,Term 1
+STU074,English,Final,71,100,Term 2
+STU074,Hindi,Unit Test,100,100,Term 1
+STU074,Hindi,Unit Test,97,100,Term 2
+STU074,Social Science,Mid Term,81,100,Term 1
+STU074,Social Science,Final,65,100,Term 2
+STU074,Computer,Unit Test,93,100,Term 1
+STU074,Computer,Unit Test,76,100,Term 2
+STU075,Maths,Final,74,100,Term 1
+STU075,Maths,Mid Term,64,100,Term 2
+STU075,Science,Mid Term,46,100,Term 1
+STU075,Science,Unit Test,70,100,Term 2
+STU075,English,Final,74,100,Term 1
+STU075,English,Unit Test,58,100,Term 2
+STU075,Hindi,Final,67,100,Term 1
+STU075,Hindi,Unit Test,48,100,Term 2
+STU075,Social Science,Mid Term,76,100,Term 1
+STU075,Social Science,Final,98,100,Term 2
+STU075,Computer,Final,88,100,Term 1
+STU075,Computer,Mid Term,63,100,Term 2
+STU076,Maths,Final,45,100,Term 1
+STU076,Maths,Unit Test,72,100,Term 2
+STU076,Science,Unit Test,61,100,Term 1
+STU076,Science,Final,68,100,Term 2
+STU076,English,Mid Term,68,100,Term 1
+STU076,English,Unit Test,70,100,Term 2
+STU076,Hindi,Unit Test,81,100,Term 1
+STU076,Hindi,Final,57,100,Term 2
+STU076,Social Science,Mid Term,80,100,Term 1
+STU076,Social Science,Mid Term,49,100,Term 2
+STU076,Computer,Mid Term,77,100,Term 1
+STU076,Computer,Mid Term,93,100,Term 2
+STU077,Maths,Final,62,100,Term 1
+STU077,Maths,Final,88,100,Term 2
+STU077,Science,Final,52,100,Term 1
+STU077,Science,Unit Test,51,100,Term 2
+STU077,English,Mid Term,68,100,Term 1
+STU077,English,Mid Term,80,100,Term 2
+STU077,Hindi,Mid Term,93,100,Term 1
+STU077,Hindi,Unit Test,57,100,Term 2
+STU077,Social Science,Final,77,100,Term 1
+STU077,Social Science,Mid Term,77,100,Term 2
+STU077,Computer,Unit Test,47,100,Term 1
+STU077,Computer,Unit Test,53,100,Term 2
+STU078,Maths,Final,66,100,Term 1
+STU078,Maths,Mid Term,78,100,Term 2
+STU078,Science,Mid Term,54,100,Term 1
+STU078,Science,Final,77,100,Term 2
+STU078,English,Unit Test,65,100,Term 1
+STU078,English,Final,65,100,Term 2
+STU078,Hindi,Unit Test,70,100,Term 1
+STU078,Hindi,Final,92,100,Term 2
+STU078,Social Science,Mid Term,82,100,Term 1
+STU078,Social Science,Mid Term,77,100,Term 2
+STU078,Computer,Final,79,100,Term 1
+STU078,Computer,Mid Term,90,100,Term 2
+STU079,Maths,Final,64,100,Term 1
+STU079,Maths,Mid Term,97,100,Term 2
+STU079,Science,Unit Test,68,100,Term 1
+STU079,Science,Mid Term,88,100,Term 2
+STU079,English,Unit Test,71,100,Term 1
+STU079,English,Final,64,100,Term 2
+STU079,Hindi,Final,100,100,Term 1
+STU079,Hindi,Final,85,100,Term 2
+STU079,Social Science,Unit Test,83,100,Term 1
+STU079,Social Science,Mid Term,61,100,Term 2
+STU079,Computer,Final,95,100,Term 1
+STU079,Computer,Final,81,100,Term 2
+STU080,Maths,Unit Test,91,100,Term 1
+STU080,Maths,Unit Test,82,100,Term 2
+STU080,Science,Mid Term,55,100,Term 1
+STU080,Science,Final,85,100,Term 2
+STU080,English,Final,84,100,Term 1
+STU080,English,Mid Term,54,100,Term 2
+STU080,Hindi,Final,60,100,Term 1
+STU080,Hindi,Unit Test,81,100,Term 2
+STU080,Social Science,Final,52,100,Term 1
+STU080,Social Science,Unit Test,46,100,Term 2
+STU080,Computer,Mid Term,65,100,Term 1
+STU080,Computer,Mid Term,54,100,Term 2
+STU081,Maths,Mid Term,89,100,Term 1
+STU081,Maths,Unit Test,71,100,Term 2
+STU081,Science,Final,94,100,Term 1
+STU081,Science,Final,75,100,Term 2
+STU081,English,Final,91,100,Term 1
+STU081,English,Unit Test,90,100,Term 2
+STU081,Hindi,Unit Test,78,100,Term 1
+STU081,Hindi,Unit Test,80,100,Term 2
+STU081,Social Science,Mid Term,87,100,Term 1
+STU081,Social Science,Mid Term,78,100,Term 2
+STU081,Computer,Mid Term,65,100,Term 1
+STU081,Computer,Unit Test,74,100,Term 2
+STU082,Maths,Final,66,100,Term 1
+STU082,Maths,Final,67,100,Term 2
+STU082,Science,Final,94,100,Term 1
+STU082,Science,Final,88,100,Term 2
+STU082,English,Final,96,100,Term 1
+STU082,English,Final,61,100,Term 2
+STU082,Hindi,Final,75,100,Term 1
+STU082,Hindi,Unit Test,60,100,Term 2
+STU082,Social Science,Mid Term,80,100,Term 1
+STU082,Social Science,Mid Term,59,100,Term 2
+STU082,Computer,Mid Term,94,100,Term 1
+STU082,Computer,Mid Term,90,100,Term 2
+STU083,Maths,Unit Test,89,100,Term 1
+STU083,Maths,Final,76,100,Term 2
+STU083,Science,Mid Term,75,100,Term 1
+STU083,Science,Mid Term,80,100,Term 2
+STU083,English,Final,62,100,Term 1
+STU083,English,Mid Term,52,100,Term 2
+STU083,Hindi,Final,88,100,Term 1
+STU083,Hindi,Final,69,100,Term 2
+STU083,Social Science,Mid Term,97,100,Term 1
+STU083,Social Science,Mid Term,94,100,Term 2
+STU083,Computer,Unit Test,63,100,Term 1
+STU083,Computer,Unit Test,63,100,Term 2
+STU084,Maths,Final,50,100,Term 1
+STU084,Maths,Mid Term,73,100,Term 2
+STU084,Science,Final,61,100,Term 1
+STU084,Science,Final,75,100,Term 2
+STU084,English,Unit Test,57,100,Term 1
+STU084,English,Final,62,100,Term 2
+STU084,Hindi,Final,89,100,Term 1
+STU084,Hindi,Mid Term,53,100,Term 2
+STU084,Social Science,Unit Test,84,100,Term 1
+STU084,Social Science,Final,82,100,Term 2
+STU084,Computer,Unit Test,60,100,Term 1
+STU084,Computer,Unit Test,87,100,Term 2
+STU085,Maths,Final,59,100,Term 1
+STU085,Maths,Final,59,100,Term 2
+STU085,Science,Unit Test,51,100,Term 1
+STU085,Science,Mid Term,66,100,Term 2
+STU085,English,Final,75,100,Term 1
+STU085,English,Unit Test,88,100,Term 2
+STU085,Hindi,Unit Test,45,100,Term 1
+STU085,Hindi,Final,55,100,Term 2
+STU085,Social Science,Mid Term,86,100,Term 1
+STU085,Social Science,Mid Term,75,100,Term 2
+STU085,Computer,Final,57,100,Term 1
+STU085,Computer,Mid Term,65,100,Term 2
+STU086,Maths,Mid Term,86,100,Term 1
+STU086,Maths,Unit Test,94,100,Term 2
+STU086,Science,Unit Test,86,100,Term 1
+STU086,Science,Final,59,100,Term 2
+STU086,English,Final,92,100,Term 1
+STU086,English,Final,99,100,Term 2
+STU086,Hindi,Unit Test,56,100,Term 1
+STU086,Hindi,Mid Term,98,100,Term 2
+STU086,Social Science,Unit Test,47,100,Term 1
+STU086,Social Science,Mid Term,95,100,Term 2
+STU086,Computer,Mid Term,56,100,Term 1
+STU086,Computer,Final,100,100,Term 2
+STU087,Maths,Mid Term,47,100,Term 1
+STU087,Maths,Unit Test,64,100,Term 2
+STU087,Science,Final,83,100,Term 1
+STU087,Science,Unit Test,66,100,Term 2
+STU087,English,Mid Term,74,100,Term 1
+STU087,English,Final,79,100,Term 2
+STU087,Hindi,Final,76,100,Term 1
+STU087,Hindi,Unit Test,99,100,Term 2
+STU087,Social Science,Final,74,100,Term 1
+STU087,Social Science,Mid Term,57,100,Term 2
+STU087,Computer,Unit Test,66,100,Term 1
+STU087,Computer,Unit Test,91,100,Term 2
+STU088,Maths,Mid Term,86,100,Term 1
+STU088,Maths,Mid Term,90,100,Term 2
+STU088,Science,Unit Test,45,100,Term 1
+STU088,Science,Final,66,100,Term 2
+STU088,English,Mid Term,81,100,Term 1
+STU088,English,Final,93,100,Term 2
+STU088,Hindi,Unit Test,56,100,Term 1
+STU088,Hindi,Final,99,100,Term 2
+STU088,Social Science,Final,70,100,Term 1
+STU088,Social Science,Mid Term,77,100,Term 2
+STU088,Computer,Mid Term,50,100,Term 1
+STU088,Computer,Mid Term,87,100,Term 2
+STU089,Maths,Unit Test,56,100,Term 1
+STU089,Maths,Unit Test,75,100,Term 2
+STU089,Science,Mid Term,60,100,Term 1
+STU089,Science,Unit Test,61,100,Term 2
+STU089,English,Mid Term,60,100,Term 1
+STU089,English,Mid Term,93,100,Term 2
+STU089,Hindi,Mid Term,66,100,Term 1
+STU089,Hindi,Mid Term,82,100,Term 2
+STU089,Social Science,Final,81,100,Term 1
+STU089,Social Science,Unit Test,61,100,Term 2
+STU089,Computer,Final,68,100,Term 1
+STU089,Computer,Final,60,100,Term 2
+STU090,Maths,Unit Test,87,100,Term 1
+STU090,Maths,Unit Test,74,100,Term 2
+STU090,Science,Mid Term,55,100,Term 1
+STU090,Science,Mid Term,88,100,Term 2
+STU090,English,Final,90,100,Term 1
+STU090,English,Mid Term,89,100,Term 2
+STU090,Hindi,Unit Test,85,100,Term 1
+STU090,Hindi,Mid Term,68,100,Term 2
+STU090,Social Science,Final,59,100,Term 1
+STU090,Social Science,Unit Test,53,100,Term 2
+STU090,Computer,Mid Term,54,100,Term 1
+STU090,Computer,Mid Term,92,100,Term 2
+STU091,Maths,Final,68,100,Term 1
+STU091,Maths,Mid Term,89,100,Term 2
+STU091,Science,Final,75,100,Term 1
+STU091,Science,Final,96,100,Term 2
+STU091,English,Final,97,100,Term 1
+STU091,English,Unit Test,93,100,Term 2
+STU091,Hindi,Unit Test,88,100,Term 1
+STU091,Hindi,Final,100,100,Term 2
+STU091,Social Science,Unit Test,78,100,Term 1
+STU091,Social Science,Mid Term,78,100,Term 2
+STU091,Computer,Final,68,100,Term 1
+STU091,Computer,Unit Test,81,100,Term 2
+STU092,Maths,Unit Test,48,100,Term 1
+STU092,Maths,Final,77,100,Term 2
+STU092,Science,Unit Test,81,100,Term 1
+STU092,Science,Final,54,100,Term 2
+STU092,English,Unit Test,65,100,Term 1
+STU092,English,Final,73,100,Term 2
+STU092,Hindi,Unit Test,88,100,Term 1
+STU092,Hindi,Unit Test,90,100,Term 2
+STU092,Social Science,Final,76,100,Term 1
+STU092,Social Science,Unit Test,77,100,Term 2
+STU092,Computer,Mid Term,96,100,Term 1
+STU092,Computer,Unit Test,74,100,Term 2
+STU093,Maths,Unit Test,77,100,Term 1
+STU093,Maths,Mid Term,74,100,Term 2
+STU093,Science,Final,48,100,Term 1
+STU093,Science,Final,74,100,Term 2
+STU093,English,Final,96,100,Term 1
+STU093,English,Mid Term,91,100,Term 2
+STU093,Hindi,Unit Test,70,100,Term 1
+STU093,Hindi,Mid Term,97,100,Term 2
+STU093,Social Science,Unit Test,92,100,Term 1
+STU093,Social Science,Unit Test,82,100,Term 2
+STU093,Computer,Unit Test,47,100,Term 1
+STU093,Computer,Mid Term,67,100,Term 2
+STU094,Maths,Final,49,100,Term 1
+STU094,Maths,Final,48,100,Term 2
+STU094,Science,Unit Test,75,100,Term 1
+STU094,Science,Unit Test,63,100,Term 2
+STU094,English,Mid Term,56,100,Term 1
+STU094,English,Unit Test,94,100,Term 2
+STU094,Hindi,Final,91,100,Term 1
+STU094,Hindi,Final,71,100,Term 2
+STU094,Social Science,Mid Term,69,100,Term 1
+STU094,Social Science,Mid Term,100,100,Term 2
+STU094,Computer,Mid Term,69,100,Term 1
+STU094,Computer,Unit Test,88,100,Term 2
+STU095,Maths,Final,100,100,Term 1
+STU095,Maths,Final,53,100,Term 2
+STU095,Science,Final,100,100,Term 1
+STU095,Science,Mid Term,52,100,Term 2
+STU095,English,Unit Test,79,100,Term 1
+STU095,English,Mid Term,78,100,Term 2
+STU095,Hindi,Unit Test,91,100,Term 1
+STU095,Hindi,Unit Test,98,100,Term 2
+STU095,Social Science,Unit Test,93,100,Term 1
+STU095,Social Science,Unit Test,64,100,Term 2
+STU095,Computer,Mid Term,88,100,Term 1
+STU095,Computer,Final,79,100,Term 2
+STU096,Maths,Mid Term,79,100,Term 1
+STU096,Maths,Mid Term,97,100,Term 2
+STU096,Science,Unit Test,60,100,Term 1
+STU096,Science,Mid Term,67,100,Term 2
+STU096,English,Unit Test,62,100,Term 1
+STU096,English,Unit Test,91,100,Term 2
+STU096,Hindi,Unit Test,47,100,Term 1
+STU096,Hindi,Final,71,100,Term 2
+STU096,Social Science,Final,94,100,Term 1
+STU096,Social Science,Unit Test,60,100,Term 2
+STU096,Computer,Unit Test,49,100,Term 1
+STU096,Computer,Unit Test,83,100,Term 2
+STU097,Maths,Unit Test,73,100,Term 1
+STU097,Maths,Final,88,100,Term 2
+STU097,Science,Final,100,100,Term 1
+STU097,Science,Unit Test,60,100,Term 2
+STU097,English,Final,47,100,Term 1
+STU097,English,Mid Term,73,100,Term 2
+STU097,Hindi,Unit Test,79,100,Term 1
+STU097,Hindi,Unit Test,93,100,Term 2
+STU097,Social Science,Unit Test,53,100,Term 1
+STU097,Social Science,Final,63,100,Term 2
+STU097,Computer,Unit Test,97,100,Term 1
+STU097,Computer,Final,81,100,Term 2
+STU098,Maths,Mid Term,81,100,Term 1
+STU098,Maths,Final,94,100,Term 2
+STU098,Science,Final,97,100,Term 1
+STU098,Science,Mid Term,60,100,Term 2
+STU098,English,Mid Term,54,100,Term 1
+STU098,English,Final,78,100,Term 2
+STU098,Hindi,Unit Test,71,100,Term 1
+STU098,Hindi,Mid Term,62,100,Term 2
+STU098,Social Science,Unit Test,80,100,Term 1
+STU098,Social Science,Final,92,100,Term 2
+STU098,Computer,Unit Test,85,100,Term 1
+STU098,Computer,Final,72,100,Term 2
+STU099,Maths,Final,76,100,Term 1
+STU099,Maths,Unit Test,67,100,Term 2
+STU099,Science,Final,87,100,Term 1
+STU099,Science,Mid Term,95,100,Term 2
+STU099,English,Final,65,100,Term 1
+STU099,English,Final,71,100,Term 2
+STU099,Hindi,Mid Term,54,100,Term 1
+STU099,Hindi,Mid Term,69,100,Term 2
+STU099,Social Science,Unit Test,93,100,Term 1
+STU099,Social Science,Final,75,100,Term 2
+STU099,Computer,Unit Test,99,100,Term 1
+STU099,Computer,Unit Test,64,100,Term 2
+STU100,Maths,Final,54,100,Term 1
+STU100,Maths,Mid Term,48,100,Term 2
+STU100,Science,Final,71,100,Term 1
+STU100,Science,Mid Term,80,100,Term 2
+STU100,English,Final,53,100,Term 1
+STU100,English,Mid Term,60,100,Term 2
+STU100,Hindi,Mid Term,58,100,Term 1
+STU100,Hindi,Mid Term,86,100,Term 2
+STU100,Social Science,Unit Test,73,100,Term 1
+STU100,Social Science,Mid Term,50,100,Term 2
+STU100,Computer,Final,91,100,Term 1
+STU100,Computer,Unit Test,48,100,Term 2
+STU101,Maths,Mid Term,69,100,Term 1
+STU101,Maths,Final,83,100,Term 2
+STU101,Science,Final,47,100,Term 1
+STU101,Science,Unit Test,57,100,Term 2
+STU101,English,Final,91,100,Term 1
+STU101,English,Final,80,100,Term 2
+STU101,Hindi,Unit Test,75,100,Term 1
+STU101,Hindi,Unit Test,100,100,Term 2
+STU101,Social Science,Mid Term,64,100,Term 1
+STU101,Social Science,Unit Test,58,100,Term 2
+STU101,Computer,Unit Test,92,100,Term 1
+STU101,Computer,Unit Test,92,100,Term 2
+STU102,Maths,Mid Term,60,100,Term 1
+STU102,Maths,Final,83,100,Term 2
+STU102,Science,Final,58,100,Term 1
+STU102,Science,Mid Term,60,100,Term 2
+STU102,English,Final,65,100,Term 1
+STU102,English,Mid Term,69,100,Term 2
+STU102,Hindi,Mid Term,79,100,Term 1
+STU102,Hindi,Final,67,100,Term 2
+STU102,Social Science,Mid Term,61,100,Term 1
+STU102,Social Science,Mid Term,77,100,Term 2
+STU102,Computer,Mid Term,74,100,Term 1
+STU102,Computer,Unit Test,96,100,Term 2
+STU103,Maths,Final,75,100,Term 1
+STU103,Maths,Mid Term,58,100,Term 2
+STU103,Science,Mid Term,65,100,Term 1
+STU103,Science,Mid Term,47,100,Term 2
+STU103,English,Final,100,100,Term 1
+STU103,English,Unit Test,92,100,Term 2
+STU103,Hindi,Unit Test,46,100,Term 1
+STU103,Hindi,Mid Term,80,100,Term 2
+STU103,Social Science,Final,82,100,Term 1
+STU103,Social Science,Final,71,100,Term 2
+STU103,Computer,Mid Term,54,100,Term 1
+STU103,Computer,Unit Test,66,100,Term 2
+STU104,Maths,Unit Test,69,100,Term 1
+STU104,Maths,Final,98,100,Term 2
+STU104,Science,Unit Test,76,100,Term 1
+STU104,Science,Final,86,100,Term 2
+STU104,English,Final,66,100,Term 1
+STU104,English,Mid Term,93,100,Term 2
+STU104,Hindi,Mid Term,91,100,Term 1
+STU104,Hindi,Final,92,100,Term 2
+STU104,Social Science,Mid Term,74,100,Term 1
+STU104,Social Science,Unit Test,91,100,Term 2
+STU104,Computer,Mid Term,55,100,Term 1
+STU104,Computer,Unit Test,91,100,Term 2
+STU105,Maths,Final,76,100,Term 1
+STU105,Maths,Unit Test,79,100,Term 2
+STU105,Science,Final,48,100,Term 1
+STU105,Science,Final,47,100,Term 2
+STU105,English,Unit Test,97,100,Term 1
+STU105,English,Final,48,100,Term 2
+STU105,Hindi,Unit Test,71,100,Term 1
+STU105,Hindi,Unit Test,98,100,Term 2
+STU105,Social Science,Final,59,100,Term 1
+STU105,Social Science,Unit Test,90,100,Term 2
+STU105,Computer,Unit Test,45,100,Term 1
+STU105,Computer,Unit Test,77,100,Term 2
+STU106,Maths,Mid Term,68,100,Term 1
+STU106,Maths,Unit Test,84,100,Term 2
+STU106,Science,Final,87,100,Term 1
+STU106,Science,Final,75,100,Term 2
+STU106,English,Final,76,100,Term 1
+STU106,English,Unit Test,45,100,Term 2
+STU106,Hindi,Final,80,100,Term 1
+STU106,Hindi,Mid Term,45,100,Term 2
+STU106,Social Science,Unit Test,78,100,Term 1
+STU106,Social Science,Final,62,100,Term 2
+STU106,Computer,Final,63,100,Term 1
+STU106,Computer,Unit Test,77,100,Term 2
+STU107,Maths,Final,88,100,Term 1
+STU107,Maths,Mid Term,96,100,Term 2
+STU107,Science,Unit Test,51,100,Term 1
+STU107,Science,Unit Test,78,100,Term 2
+STU107,English,Unit Test,60,100,Term 1
+STU107,English,Unit Test,84,100,Term 2
+STU107,Hindi,Final,61,100,Term 1
+STU107,Hindi,Mid Term,62,100,Term 2
+STU107,Social Science,Mid Term,50,100,Term 1
+STU107,Social Science,Mid Term,70,100,Term 2
+STU107,Computer,Mid Term,81,100,Term 1
+STU107,Computer,Unit Test,89,100,Term 2
+STU108,Maths,Unit Test,64,100,Term 1
+STU108,Maths,Final,97,100,Term 2
+STU108,Science,Unit Test,86,100,Term 1
+STU108,Science,Final,93,100,Term 2
+STU108,English,Unit Test,50,100,Term 1
+STU108,English,Mid Term,69,100,Term 2
+STU108,Hindi,Mid Term,80,100,Term 1
+STU108,Hindi,Mid Term,48,100,Term 2
+STU108,Social Science,Final,45,100,Term 1
+STU108,Social Science,Final,55,100,Term 2
+STU108,Computer,Unit Test,76,100,Term 1
+STU108,Computer,Mid Term,86,100,Term 2
+STU109,Maths,Mid Term,81,100,Term 1
+STU109,Maths,Unit Test,78,100,Term 2
+STU109,Science,Unit Test,59,100,Term 1
+STU109,Science,Unit Test,100,100,Term 2
+STU109,English,Final,81,100,Term 1
+STU109,English,Mid Term,62,100,Term 2
+STU109,Hindi,Unit Test,49,100,Term 1
+STU109,Hindi,Final,62,100,Term 2
+STU109,Social Science,Final,81,100,Term 1
+STU109,Social Science,Final,47,100,Term 2
+STU109,Computer,Unit Test,99,100,Term 1
+STU109,Computer,Mid Term,46,100,Term 2
+STU110,Maths,Unit Test,82,100,Term 1
+STU110,Maths,Unit Test,93,100,Term 2
+STU110,Science,Final,97,100,Term 1
+STU110,Science,Mid Term,49,100,Term 2
+STU110,English,Mid Term,55,100,Term 1
+STU110,English,Final,60,100,Term 2
+STU110,Hindi,Final,98,100,Term 1
+STU110,Hindi,Mid Term,88,100,Term 2
+STU110,Social Science,Final,66,100,Term 1
+STU110,Social Science,Mid Term,93,100,Term 2
+STU110,Computer,Final,53,100,Term 1
+STU110,Computer,Final,91,100,Term 2
+STU111,Maths,Unit Test,77,100,Term 1
+STU111,Maths,Final,67,100,Term 2
+STU111,Science,Unit Test,51,100,Term 1
+STU111,Science,Mid Term,59,100,Term 2
+STU111,English,Unit Test,66,100,Term 1
+STU111,English,Final,94,100,Term 2
+STU111,Hindi,Final,83,100,Term 1
+STU111,Hindi,Mid Term,94,100,Term 2
+STU111,Social Science,Mid Term,46,100,Term 1
+STU111,Social Science,Final,62,100,Term 2
+STU111,Computer,Mid Term,76,100,Term 1
+STU111,Computer,Unit Test,67,100,Term 2
+STU112,Maths,Final,69,100,Term 1
+STU112,Maths,Mid Term,56,100,Term 2
+STU112,Science,Final,82,100,Term 1
+STU112,Science,Final,69,100,Term 2
+STU112,English,Unit Test,94,100,Term 1
+STU112,English,Final,63,100,Term 2
+STU112,Hindi,Unit Test,90,100,Term 1
+STU112,Hindi,Unit Test,50,100,Term 2
+STU112,Social Science,Mid Term,54,100,Term 1
+STU112,Social Science,Mid Term,90,100,Term 2
+STU112,Computer,Final,54,100,Term 1
+STU112,Computer,Final,69,100,Term 2
+STU113,Maths,Mid Term,68,100,Term 1
+STU113,Maths,Unit Test,50,100,Term 2
+STU113,Science,Unit Test,64,100,Term 1
+STU113,Science,Mid Term,68,100,Term 2
+STU113,English,Mid Term,51,100,Term 1
+STU113,English,Unit Test,50,100,Term 2
+STU113,Hindi,Unit Test,72,100,Term 1
+STU113,Hindi,Mid Term,80,100,Term 2
+STU113,Social Science,Final,77,100,Term 1
+STU113,Social Science,Mid Term,51,100,Term 2
+STU113,Computer,Unit Test,50,100,Term 1
+STU113,Computer,Mid Term,80,100,Term 2
+STU114,Maths,Unit Test,83,100,Term 1
+STU114,Maths,Final,95,100,Term 2
+STU114,Science,Mid Term,100,100,Term 1
+STU114,Science,Mid Term,45,100,Term 2
+STU114,English,Mid Term,71,100,Term 1
+STU114,English,Mid Term,94,100,Term 2
+STU114,Hindi,Unit Test,91,100,Term 1
+STU114,Hindi,Final,60,100,Term 2
+STU114,Social Science,Final,78,100,Term 1
+STU114,Social Science,Unit Test,88,100,Term 2
+STU114,Computer,Mid Term,55,100,Term 1
+STU114,Computer,Unit Test,62,100,Term 2
+STU115,Maths,Mid Term,62,100,Term 1
+STU115,Maths,Mid Term,54,100,Term 2
+STU115,Science,Unit Test,55,100,Term 1
+STU115,Science,Mid Term,62,100,Term 2
+STU115,English,Mid Term,64,100,Term 1
+STU115,English,Mid Term,95,100,Term 2
+STU115,Hindi,Unit Test,68,100,Term 1
+STU115,Hindi,Mid Term,60,100,Term 2
+STU115,Social Science,Final,85,100,Term 1
+STU115,Social Science,Mid Term,83,100,Term 2
+STU115,Computer,Final,57,100,Term 1
+STU115,Computer,Mid Term,51,100,Term 2
+STU116,Maths,Unit Test,64,100,Term 1
+STU116,Maths,Unit Test,70,100,Term 2
+STU116,Science,Mid Term,98,100,Term 1
+STU116,Science,Final,69,100,Term 2
+STU116,English,Mid Term,73,100,Term 1
+STU116,English,Mid Term,72,100,Term 2
+STU116,Hindi,Final,83,100,Term 1
+STU116,Hindi,Unit Test,64,100,Term 2
+STU116,Social Science,Mid Term,83,100,Term 1
+STU116,Social Science,Final,57,100,Term 2
+STU116,Computer,Mid Term,65,100,Term 1
+STU116,Computer,Unit Test,70,100,Term 2
+STU117,Maths,Mid Term,63,100,Term 1
+STU117,Maths,Final,89,100,Term 2
+STU117,Science,Final,76,100,Term 1
+STU117,Science,Final,95,100,Term 2
+STU117,English,Unit Test,65,100,Term 1
+STU117,English,Mid Term,62,100,Term 2
+STU117,Hindi,Mid Term,68,100,Term 1
+STU117,Hindi,Unit Test,81,100,Term 2
+STU117,Social Science,Unit Test,82,100,Term 1
+STU117,Social Science,Final,56,100,Term 2
+STU117,Computer,Final,94,100,Term 1
+STU117,Computer,Final,46,100,Term 2
+STU118,Maths,Final,74,100,Term 1
+STU118,Maths,Final,58,100,Term 2
+STU118,Science,Mid Term,96,100,Term 1
+STU118,Science,Mid Term,98,100,Term 2
+STU118,English,Final,49,100,Term 1
+STU118,English,Mid Term,88,100,Term 2
+STU118,Hindi,Mid Term,53,100,Term 1
+STU118,Hindi,Final,64,100,Term 2
+STU118,Social Science,Unit Test,61,100,Term 1
+STU118,Social Science,Final,54,100,Term 2
+STU118,Computer,Final,72,100,Term 1
+STU118,Computer,Mid Term,49,100,Term 2
+STU119,Maths,Mid Term,83,100,Term 1
+STU119,Maths,Mid Term,82,100,Term 2
+STU119,Science,Mid Term,79,100,Term 1
+STU119,Science,Final,100,100,Term 2
+STU119,English,Final,71,100,Term 1
+STU119,English,Final,47,100,Term 2
+STU119,Hindi,Mid Term,89,100,Term 1
+STU119,Hindi,Final,83,100,Term 2
+STU119,Social Science,Final,50,100,Term 1
+STU119,Social Science,Unit Test,94,100,Term 2
+STU119,Computer,Unit Test,87,100,Term 1
+STU119,Computer,Final,67,100,Term 2
+STU120,Maths,Unit Test,86,100,Term 1
+STU120,Maths,Final,47,100,Term 2
+STU120,Science,Final,86,100,Term 1
+STU120,Science,Final,86,100,Term 2
+STU120,English,Mid Term,93,100,Term 1
+STU120,English,Mid Term,95,100,Term 2
+STU120,Hindi,Mid Term,51,100,Term 1
+STU120,Hindi,Unit Test,51,100,Term 2
+STU120,Social Science,Mid Term,59,100,Term 1
+STU120,Social Science,Final,92,100,Term 2
+STU120,Computer,Final,80,100,Term 1
+STU120,Computer,Final,89,100,Term 2
+STU121,Maths,Final,59,100,Term 1
+STU121,Maths,Mid Term,68,100,Term 2
+STU121,Science,Mid Term,74,100,Term 1
+STU121,Science,Final,82,100,Term 2
+STU121,English,Final,77,100,Term 1
+STU121,English,Unit Test,67,100,Term 2
+STU121,Hindi,Unit Test,75,100,Term 1
+STU121,Hindi,Unit Test,63,100,Term 2
+STU121,Social Science,Mid Term,50,100,Term 1
+STU121,Social Science,Unit Test,98,100,Term 2
+STU121,Computer,Final,54,100,Term 1
+STU121,Computer,Mid Term,64,100,Term 2
+STU122,Maths,Mid Term,74,100,Term 1
+STU122,Maths,Unit Test,78,100,Term 2
+STU122,Science,Mid Term,67,100,Term 1
+STU122,Science,Mid Term,51,100,Term 2
+STU122,English,Mid Term,91,100,Term 1
+STU122,English,Final,73,100,Term 2
+STU122,Hindi,Mid Term,49,100,Term 1
+STU122,Hindi,Mid Term,47,100,Term 2
+STU122,Social Science,Final,52,100,Term 1
+STU122,Social Science,Unit Test,99,100,Term 2
+STU122,Computer,Mid Term,86,100,Term 1
+STU122,Computer,Unit Test,88,100,Term 2
+STU123,Maths,Unit Test,92,100,Term 1
+STU123,Maths,Unit Test,78,100,Term 2
+STU123,Science,Unit Test,80,100,Term 1
+STU123,Science,Unit Test,66,100,Term 2
+STU123,English,Final,72,100,Term 1
+STU123,English,Mid Term,59,100,Term 2
+STU123,Hindi,Mid Term,85,100,Term 1
+STU123,Hindi,Unit Test,56,100,Term 2
+STU123,Social Science,Final,87,100,Term 1
+STU123,Social Science,Mid Term,70,100,Term 2
+STU123,Computer,Unit Test,92,100,Term 1
+STU123,Computer,Final,57,100,Term 2
+STU124,Maths,Mid Term,82,100,Term 1
+STU124,Maths,Mid Term,69,100,Term 2
+STU124,Science,Unit Test,90,100,Term 1
+STU124,Science,Unit Test,58,100,Term 2
+STU124,English,Mid Term,93,100,Term 1
+STU124,English,Final,96,100,Term 2
+STU124,Hindi,Unit Test,81,100,Term 1
+STU124,Hindi,Unit Test,96,100,Term 2
+STU124,Social Science,Final,56,100,Term 1
+STU124,Social Science,Mid Term,65,100,Term 2
+STU124,Computer,Unit Test,74,100,Term 1
+STU124,Computer,Unit Test,61,100,Term 2
+STU125,Maths,Final,100,100,Term 1
+STU125,Maths,Mid Term,78,100,Term 2
+STU125,Science,Final,65,100,Term 1
+STU125,Science,Final,69,100,Term 2
+STU125,English,Final,70,100,Term 1
+STU125,English,Final,52,100,Term 2
+STU125,Hindi,Mid Term,67,100,Term 1
+STU125,Hindi,Mid Term,84,100,Term 2
+STU125,Social Science,Unit Test,97,100,Term 1
+STU125,Social Science,Final,90,100,Term 2
+STU125,Computer,Mid Term,84,100,Term 1
+STU125,Computer,Final,50,100,Term 2
+STU126,Maths,Final,53,100,Term 1
+STU126,Maths,Mid Term,52,100,Term 2
+STU126,Science,Unit Test,64,100,Term 1
+STU126,Science,Unit Test,56,100,Term 2
+STU126,English,Mid Term,89,100,Term 1
+STU126,English,Unit Test,77,100,Term 2
+STU126,Hindi,Mid Term,71,100,Term 1
+STU126,Hindi,Final,53,100,Term 2
+STU126,Social Science,Final,69,100,Term 1
+STU126,Social Science,Mid Term,56,100,Term 2
+STU126,Computer,Mid Term,85,100,Term 1
+STU126,Computer,Final,89,100,Term 2
+STU127,Maths,Final,56,100,Term 1
+STU127,Maths,Final,55,100,Term 2
+STU127,Science,Mid Term,63,100,Term 1
+STU127,Science,Unit Test,56,100,Term 2
+STU127,English,Mid Term,98,100,Term 1
+STU127,English,Mid Term,84,100,Term 2
+STU127,Hindi,Unit Test,100,100,Term 1
+STU127,Hindi,Mid Term,45,100,Term 2
+STU127,Social Science,Mid Term,53,100,Term 1
+STU127,Social Science,Unit Test,97,100,Term 2
+STU127,Computer,Mid Term,80,100,Term 1
+STU127,Computer,Final,86,100,Term 2
+STU128,Maths,Mid Term,71,100,Term 1
+STU128,Maths,Final,76,100,Term 2
+STU128,Science,Mid Term,90,100,Term 1
+STU128,Science,Mid Term,76,100,Term 2
+STU128,English,Unit Test,50,100,Term 1
+STU128,English,Final,46,100,Term 2
+STU128,Hindi,Unit Test,63,100,Term 1
+STU128,Hindi,Unit Test,62,100,Term 2
+STU128,Social Science,Unit Test,79,100,Term 1
+STU128,Social Science,Mid Term,55,100,Term 2
+STU128,Computer,Mid Term,81,100,Term 1
+STU128,Computer,Final,94,100,Term 2
+STU129,Maths,Mid Term,80,100,Term 1
+STU129,Maths,Final,52,100,Term 2
+STU129,Science,Final,52,100,Term 1
+STU129,Science,Mid Term,94,100,Term 2
+STU129,English,Final,97,100,Term 1
+STU129,English,Mid Term,79,100,Term 2
+STU129,Hindi,Unit Test,93,100,Term 1
+STU129,Hindi,Final,73,100,Term 2
+STU129,Social Science,Final,58,100,Term 1
+STU129,Social Science,Mid Term,51,100,Term 2
+STU129,Computer,Final,98,100,Term 1
+STU129,Computer,Final,93,100,Term 2
+STU130,Maths,Unit Test,64,100,Term 1
+STU130,Maths,Unit Test,73,100,Term 2
+STU130,Science,Mid Term,67,100,Term 1
+STU130,Science,Unit Test,73,100,Term 2
+STU130,English,Unit Test,94,100,Term 1
+STU130,English,Unit Test,58,100,Term 2
+STU130,Hindi,Final,82,100,Term 1
+STU130,Hindi,Final,67,100,Term 2
+STU130,Social Science,Final,84,100,Term 1
+STU130,Social Science,Final,72,100,Term 2
+STU130,Computer,Unit Test,84,100,Term 1
+STU130,Computer,Unit Test,95,100,Term 2
+STU131,Maths,Unit Test,97,100,Term 1
+STU131,Maths,Unit Test,96,100,Term 2
+STU131,Science,Unit Test,81,100,Term 1
+STU131,Science,Mid Term,79,100,Term 2
+STU131,English,Mid Term,83,100,Term 1
+STU131,English,Final,55,100,Term 2
+STU131,Hindi,Mid Term,90,100,Term 1
+STU131,Hindi,Mid Term,63,100,Term 2
+STU131,Social Science,Final,62,100,Term 1
+STU131,Social Science,Final,88,100,Term 2
+STU131,Computer,Unit Test,53,100,Term 1
+STU131,Computer,Mid Term,48,100,Term 2
+STU132,Maths,Mid Term,100,100,Term 1
+STU132,Maths,Final,53,100,Term 2
+STU132,Science,Final,100,100,Term 1
+STU132,Science,Unit Test,60,100,Term 2
+STU132,English,Unit Test,90,100,Term 1
+STU132,English,Mid Term,98,100,Term 2
+STU132,Hindi,Unit Test,93,100,Term 1
+STU132,Hindi,Final,70,100,Term 2
+STU132,Social Science,Mid Term,54,100,Term 1
+STU132,Social Science,Final,85,100,Term 2
+STU132,Computer,Mid Term,85,100,Term 1
+STU132,Computer,Mid Term,69,100,Term 2
+STU133,Maths,Mid Term,49,100,Term 1
+STU133,Maths,Final,95,100,Term 2
+STU133,Science,Unit Test,70,100,Term 1
+STU133,Science,Final,92,100,Term 2
+STU133,English,Mid Term,89,100,Term 1
+STU133,English,Mid Term,74,100,Term 2
+STU133,Hindi,Mid Term,65,100,Term 1
+STU133,Hindi,Final,45,100,Term 2
+STU133,Social Science,Final,50,100,Term 1
+STU133,Social Science,Final,74,100,Term 2
+STU133,Computer,Final,87,100,Term 1
+STU133,Computer,Final,67,100,Term 2
+STU134,Maths,Unit Test,95,100,Term 1
+STU134,Maths,Final,70,100,Term 2
+STU134,Science,Unit Test,72,100,Term 1
+STU134,Science,Unit Test,76,100,Term 2
+STU134,English,Mid Term,65,100,Term 1
+STU134,English,Mid Term,66,100,Term 2
+STU134,Hindi,Final,81,100,Term 1
+STU134,Hindi,Unit Test,81,100,Term 2
+STU134,Social Science,Mid Term,95,100,Term 1
+STU134,Social Science,Mid Term,88,100,Term 2
+STU134,Computer,Unit Test,47,100,Term 1
+STU134,Computer,Unit Test,85,100,Term 2
+STU135,Maths,Mid Term,46,100,Term 1
+STU135,Maths,Unit Test,99,100,Term 2
+STU135,Science,Unit Test,73,100,Term 1
+STU135,Science,Mid Term,45,100,Term 2
+STU135,English,Mid Term,57,100,Term 1
+STU135,English,Final,53,100,Term 2
+STU135,Hindi,Final,64,100,Term 1
+STU135,Hindi,Unit Test,100,100,Term 2
+STU135,Social Science,Mid Term,50,100,Term 1
+STU135,Social Science,Final,68,100,Term 2
+STU135,Computer,Mid Term,50,100,Term 1
+STU135,Computer,Mid Term,87,100,Term 2
+STU136,Maths,Final,55,100,Term 1
+STU136,Maths,Unit Test,70,100,Term 2
+STU136,Science,Final,64,100,Term 1
+STU136,Science,Final,89,100,Term 2
+STU136,English,Unit Test,72,100,Term 1
+STU136,English,Final,50,100,Term 2
+STU136,Hindi,Final,51,100,Term 1
+STU136,Hindi,Unit Test,58,100,Term 2
+STU136,Social Science,Mid Term,49,100,Term 1
+STU136,Social Science,Unit Test,82,100,Term 2
+STU136,Computer,Unit Test,78,100,Term 1
+STU136,Computer,Final,73,100,Term 2
+STU137,Maths,Unit Test,45,100,Term 1
+STU137,Maths,Final,66,100,Term 2
+STU137,Science,Unit Test,100,100,Term 1
+STU137,Science,Mid Term,89,100,Term 2
+STU137,English,Unit Test,75,100,Term 1
+STU137,English,Unit Test,59,100,Term 2
+STU137,Hindi,Mid Term,50,100,Term 1
+STU137,Hindi,Final,96,100,Term 2
+STU137,Social Science,Unit Test,51,100,Term 1
+STU137,Social Science,Mid Term,68,100,Term 2
+STU137,Computer,Mid Term,53,100,Term 1
+STU137,Computer,Mid Term,94,100,Term 2
+STU138,Maths,Unit Test,86,100,Term 1
+STU138,Maths,Final,54,100,Term 2
+STU138,Science,Unit Test,78,100,Term 1
+STU138,Science,Final,45,100,Term 2
+STU138,English,Final,86,100,Term 1
+STU138,English,Unit Test,73,100,Term 2
+STU138,Hindi,Mid Term,91,100,Term 1
+STU138,Hindi,Unit Test,85,100,Term 2
+STU138,Social Science,Final,54,100,Term 1
+STU138,Social Science,Mid Term,84,100,Term 2
+STU138,Computer,Final,73,100,Term 1
+STU138,Computer,Unit Test,50,100,Term 2
+STU139,Maths,Unit Test,53,100,Term 1
+STU139,Maths,Unit Test,82,100,Term 2
+STU139,Science,Final,69,100,Term 1
+STU139,Science,Mid Term,72,100,Term 2
+STU139,English,Mid Term,95,100,Term 1
+STU139,English,Unit Test,60,100,Term 2
+STU139,Hindi,Mid Term,86,100,Term 1
+STU139,Hindi,Unit Test,60,100,Term 2
+STU139,Social Science,Final,83,100,Term 1
+STU139,Social Science,Final,91,100,Term 2
+STU139,Computer,Final,63,100,Term 1
+STU139,Computer,Final,46,100,Term 2
+STU140,Maths,Final,64,100,Term 1
+STU140,Maths,Unit Test,78,100,Term 2
+STU140,Science,Final,77,100,Term 1
+STU140,Science,Unit Test,92,100,Term 2
+STU140,English,Mid Term,63,100,Term 1
+STU140,English,Final,48,100,Term 2
+STU140,Hindi,Unit Test,76,100,Term 1
+STU140,Hindi,Mid Term,52,100,Term 2
+STU140,Social Science,Unit Test,76,100,Term 1
+STU140,Social Science,Final,83,100,Term 2
+STU140,Computer,Unit Test,78,100,Term 1
+STU140,Computer,Unit Test,68,100,Term 2
+STU141,Maths,Mid Term,53,100,Term 1
+STU141,Maths,Mid Term,100,100,Term 2
+STU141,Science,Final,71,100,Term 1
+STU141,Science,Mid Term,79,100,Term 2
+STU141,English,Final,56,100,Term 1
+STU141,English,Mid Term,94,100,Term 2
+STU141,Hindi,Unit Test,46,100,Term 1
+STU141,Hindi,Final,49,100,Term 2
+STU141,Social Science,Unit Test,61,100,Term 1
+STU141,Social Science,Unit Test,47,100,Term 2
+STU141,Computer,Unit Test,95,100,Term 1
+STU141,Computer,Mid Term,77,100,Term 2
+STU142,Maths,Mid Term,85,100,Term 1
+STU142,Maths,Final,77,100,Term 2
+STU142,Science,Mid Term,72,100,Term 1
+STU142,Science,Final,70,100,Term 2
+STU142,English,Unit Test,85,100,Term 1
+STU142,English,Final,79,100,Term 2
+STU142,Hindi,Final,54,100,Term 1
+STU142,Hindi,Mid Term,50,100,Term 2
+STU142,Social Science,Mid Term,50,100,Term 1
+STU142,Social Science,Final,58,100,Term 2
+STU142,Computer,Unit Test,79,100,Term 1
+STU142,Computer,Mid Term,70,100,Term 2
+STU143,Maths,Final,85,100,Term 1
+STU143,Maths,Final,88,100,Term 2
+STU143,Science,Final,49,100,Term 1
+STU143,Science,Mid Term,89,100,Term 2
+STU143,English,Mid Term,91,100,Term 1
+STU143,English,Unit Test,48,100,Term 2
+STU143,Hindi,Unit Test,50,100,Term 1
+STU143,Hindi,Mid Term,52,100,Term 2
+STU143,Social Science,Mid Term,84,100,Term 1
+STU143,Social Science,Final,48,100,Term 2
+STU143,Computer,Mid Term,87,100,Term 1
+STU143,Computer,Final,87,100,Term 2
+STU144,Maths,Final,56,100,Term 1
+STU144,Maths,Unit Test,45,100,Term 2
+STU144,Science,Final,53,100,Term 1
+STU144,Science,Final,45,100,Term 2
+STU144,English,Unit Test,76,100,Term 1
+STU144,English,Mid Term,78,100,Term 2
+STU144,Hindi,Final,95,100,Term 1
+STU144,Hindi,Final,61,100,Term 2
+STU144,Social Science,Unit Test,68,100,Term 1
+STU144,Social Science,Unit Test,92,100,Term 2
+STU144,Computer,Mid Term,91,100,Term 1
+STU144,Computer,Unit Test,94,100,Term 2
+STU145,Maths,Unit Test,66,100,Term 1
+STU145,Maths,Mid Term,62,100,Term 2
+STU145,Science,Final,49,100,Term 1
+STU145,Science,Mid Term,90,100,Term 2
+STU145,English,Final,85,100,Term 1
+STU145,English,Unit Test,76,100,Term 2
+STU145,Hindi,Mid Term,77,100,Term 1
+STU145,Hindi,Mid Term,48,100,Term 2
+STU145,Social Science,Mid Term,99,100,Term 1
+STU145,Social Science,Final,55,100,Term 2
+STU145,Computer,Mid Term,55,100,Term 1
+STU145,Computer,Mid Term,94,100,Term 2
+STU146,Maths,Unit Test,81,100,Term 1
+STU146,Maths,Final,91,100,Term 2
+STU146,Science,Unit Test,59,100,Term 1
+STU146,Science,Final,77,100,Term 2
+STU146,English,Unit Test,47,100,Term 1
+STU146,English,Unit Test,60,100,Term 2
+STU146,Hindi,Unit Test,75,100,Term 1
+STU146,Hindi,Mid Term,69,100,Term 2
+STU146,Social Science,Unit Test,56,100,Term 1
+STU146,Social Science,Unit Test,80,100,Term 2
+STU146,Computer,Final,92,100,Term 1
+STU146,Computer,Final,71,100,Term 2
+STU147,Maths,Unit Test,65,100,Term 1
+STU147,Maths,Unit Test,71,100,Term 2
+STU147,Science,Final,65,100,Term 1
+STU147,Science,Mid Term,97,100,Term 2
+STU147,English,Unit Test,81,100,Term 1
+STU147,English,Mid Term,52,100,Term 2
+STU147,Hindi,Final,88,100,Term 1
+STU147,Hindi,Unit Test,56,100,Term 2
+STU147,Social Science,Unit Test,96,100,Term 1
+STU147,Social Science,Final,47,100,Term 2
+STU147,Computer,Mid Term,49,100,Term 1
+STU147,Computer,Mid Term,100,100,Term 2
+STU148,Maths,Mid Term,94,100,Term 1
+STU148,Maths,Mid Term,65,100,Term 2
+STU148,Science,Unit Test,80,100,Term 1
+STU148,Science,Mid Term,45,100,Term 2
+STU148,English,Mid Term,57,100,Term 1
+STU148,English,Mid Term,81,100,Term 2
+STU148,Hindi,Mid Term,92,100,Term 1
+STU148,Hindi,Final,60,100,Term 2
+STU148,Social Science,Mid Term,68,100,Term 1
+STU148,Social Science,Final,76,100,Term 2
+STU148,Computer,Unit Test,91,100,Term 1
+STU148,Computer,Final,93,100,Term 2
+STU149,Maths,Unit Test,54,100,Term 1
+STU149,Maths,Unit Test,71,100,Term 2
+STU149,Science,Unit Test,59,100,Term 1
+STU149,Science,Final,67,100,Term 2
+STU149,English,Final,98,100,Term 1
+STU149,English,Final,45,100,Term 2
+STU149,Hindi,Mid Term,45,100,Term 1
+STU149,Hindi,Final,69,100,Term 2
+STU149,Social Science,Final,91,100,Term 1
+STU149,Social Science,Mid Term,51,100,Term 2
+STU149,Computer,Unit Test,78,100,Term 1
+STU149,Computer,Unit Test,71,100,Term 2
+STU150,Maths,Mid Term,48,100,Term 1
+STU150,Maths,Unit Test,90,100,Term 2
+STU150,Science,Mid Term,50,100,Term 1
+STU150,Science,Unit Test,59,100,Term 2
+STU150,English,Final,71,100,Term 1
+STU150,English,Final,68,100,Term 2
+STU150,Hindi,Mid Term,92,100,Term 1
+STU150,Hindi,Unit Test,82,100,Term 2
+STU150,Social Science,Unit Test,77,100,Term 1
+STU150,Social Science,Unit Test,85,100,Term 2
+STU150,Computer,Mid Term,49,100,Term 1
+STU150,Computer,Final,81,100,Term 2
+STU151,Maths,Unit Test,72,100,Term 1
+STU151,Maths,Final,53,100,Term 2
+STU151,Science,Unit Test,63,100,Term 1
+STU151,Science,Mid Term,99,100,Term 2
+STU151,English,Mid Term,96,100,Term 1
+STU151,English,Mid Term,89,100,Term 2
+STU151,Hindi,Final,65,100,Term 1
+STU151,Hindi,Mid Term,73,100,Term 2
+STU151,Social Science,Mid Term,59,100,Term 1
+STU151,Social Science,Unit Test,57,100,Term 2
+STU151,Computer,Unit Test,94,100,Term 1
+STU151,Computer,Final,51,100,Term 2
+STU152,Maths,Unit Test,51,100,Term 1
+STU152,Maths,Unit Test,73,100,Term 2
+STU152,Science,Mid Term,65,100,Term 1
+STU152,Science,Mid Term,52,100,Term 2
+STU152,English,Final,67,100,Term 1
+STU152,English,Unit Test,73,100,Term 2
+STU152,Hindi,Mid Term,74,100,Term 1
+STU152,Hindi,Mid Term,99,100,Term 2
+STU152,Social Science,Unit Test,50,100,Term 1
+STU152,Social Science,Unit Test,96,100,Term 2
+STU152,Computer,Final,64,100,Term 1
+STU152,Computer,Final,89,100,Term 2
+STU153,Maths,Final,47,100,Term 1
+STU153,Maths,Unit Test,98,100,Term 2
+STU153,Science,Mid Term,54,100,Term 1
+STU153,Science,Unit Test,90,100,Term 2
+STU153,English,Unit Test,67,100,Term 1
+STU153,English,Mid Term,77,100,Term 2
+STU153,Hindi,Unit Test,88,100,Term 1
+STU153,Hindi,Mid Term,61,100,Term 2
+STU153,Social Science,Unit Test,46,100,Term 1
+STU153,Social Science,Mid Term,99,100,Term 2
+STU153,Computer,Mid Term,80,100,Term 1
+STU153,Computer,Final,80,100,Term 2
+STU154,Maths,Unit Test,51,100,Term 1
+STU154,Maths,Mid Term,51,100,Term 2
+STU154,Science,Unit Test,52,100,Term 1
+STU154,Science,Unit Test,48,100,Term 2
+STU154,English,Unit Test,53,100,Term 1
+STU154,English,Unit Test,97,100,Term 2
+STU154,Hindi,Mid Term,68,100,Term 1
+STU154,Hindi,Final,85,100,Term 2
+STU154,Social Science,Final,50,100,Term 1
+STU154,Social Science,Final,82,100,Term 2
+STU154,Computer,Mid Term,97,100,Term 1
+STU154,Computer,Unit Test,46,100,Term 2
+STU155,Maths,Unit Test,57,100,Term 1
+STU155,Maths,Final,73,100,Term 2
+STU155,Science,Unit Test,50,100,Term 1
+STU155,Science,Mid Term,52,100,Term 2
+STU155,English,Unit Test,74,100,Term 1
+STU155,English,Unit Test,55,100,Term 2
+STU155,Hindi,Final,72,100,Term 1
+STU155,Hindi,Final,70,100,Term 2
+STU155,Social Science,Mid Term,46,100,Term 1
+STU155,Social Science,Mid Term,88,100,Term 2
+STU155,Computer,Mid Term,56,100,Term 1
+STU155,Computer,Mid Term,58,100,Term 2
+STU156,Maths,Unit Test,62,100,Term 1
+STU156,Maths,Mid Term,73,100,Term 2
+STU156,Science,Unit Test,47,100,Term 1
+STU156,Science,Final,84,100,Term 2
+STU156,English,Final,60,100,Term 1
+STU156,English,Final,63,100,Term 2
+STU156,Hindi,Mid Term,71,100,Term 1
+STU156,Hindi,Final,75,100,Term 2
+STU156,Social Science,Unit Test,50,100,Term 1
+STU156,Social Science,Mid Term,69,100,Term 2
+STU156,Computer,Unit Test,71,100,Term 1
+STU156,Computer,Unit Test,86,100,Term 2
+STU157,Maths,Final,60,100,Term 1
+STU157,Maths,Final,96,100,Term 2
+STU157,Science,Final,95,100,Term 1
+STU157,Science,Unit Test,69,100,Term 2
+STU157,English,Final,67,100,Term 1
+STU157,English,Mid Term,79,100,Term 2
+STU157,Hindi,Mid Term,67,100,Term 1
+STU157,Hindi,Final,77,100,Term 2
+STU157,Social Science,Mid Term,69,100,Term 1
+STU157,Social Science,Mid Term,56,100,Term 2
+STU157,Computer,Unit Test,65,100,Term 1
+STU157,Computer,Final,59,100,Term 2
+STU158,Maths,Unit Test,96,100,Term 1
+STU158,Maths,Mid Term,48,100,Term 2
+STU158,Science,Mid Term,78,100,Term 1
+STU158,Science,Mid Term,94,100,Term 2
+STU158,English,Final,59,100,Term 1
+STU158,English,Unit Test,51,100,Term 2
+STU158,Hindi,Unit Test,87,100,Term 1
+STU158,Hindi,Unit Test,62,100,Term 2
+STU158,Social Science,Final,97,100,Term 1
+STU158,Social Science,Final,48,100,Term 2
+STU158,Computer,Unit Test,81,100,Term 1
+STU158,Computer,Mid Term,67,100,Term 2
+STU159,Maths,Unit Test,56,100,Term 1
+STU159,Maths,Unit Test,82,100,Term 2
+STU159,Science,Mid Term,96,100,Term 1
+STU159,Science,Final,89,100,Term 2
+STU159,English,Mid Term,82,100,Term 1
+STU159,English,Unit Test,90,100,Term 2
+STU159,Hindi,Final,67,100,Term 1
+STU159,Hindi,Final,81,100,Term 2
+STU159,Social Science,Unit Test,81,100,Term 1
+STU159,Social Science,Unit Test,98,100,Term 2
+STU159,Computer,Mid Term,79,100,Term 1
+STU159,Computer,Mid Term,56,100,Term 2
+STU160,Maths,Mid Term,47,100,Term 1
+STU160,Maths,Unit Test,48,100,Term 2
+STU160,Science,Unit Test,83,100,Term 1
+STU160,Science,Unit Test,46,100,Term 2
+STU160,English,Final,75,100,Term 1
+STU160,English,Unit Test,66,100,Term 2
+STU160,Hindi,Final,57,100,Term 1
+STU160,Hindi,Unit Test,66,100,Term 2
+STU160,Social Science,Final,56,100,Term 1
+STU160,Social Science,Mid Term,48,100,Term 2
+STU160,Computer,Unit Test,54,100,Term 1
+STU160,Computer,Final,90,100,Term 2
+STU161,Maths,Unit Test,94,100,Term 1
+STU161,Maths,Unit Test,99,100,Term 2
+STU161,Science,Final,100,100,Term 1
+STU161,Science,Mid Term,49,100,Term 2
+STU161,English,Mid Term,90,100,Term 1
+STU161,English,Final,70,100,Term 2
+STU161,Hindi,Final,51,100,Term 1
+STU161,Hindi,Mid Term,64,100,Term 2
+STU161,Social Science,Mid Term,53,100,Term 1
+STU161,Social Science,Unit Test,91,100,Term 2
+STU161,Computer,Mid Term,95,100,Term 1
+STU161,Computer,Final,76,100,Term 2
+STU162,Maths,Final,65,100,Term 1
+STU162,Maths,Unit Test,90,100,Term 2
+STU162,Science,Final,89,100,Term 1
+STU162,Science,Final,95,100,Term 2
+STU162,English,Mid Term,59,100,Term 1
+STU162,English,Final,82,100,Term 2
+STU162,Hindi,Unit Test,69,100,Term 1
+STU162,Hindi,Mid Term,91,100,Term 2
+STU162,Social Science,Final,63,100,Term 1
+STU162,Social Science,Unit Test,56,100,Term 2
+STU162,Computer,Final,45,100,Term 1
+STU162,Computer,Final,81,100,Term 2
+STU163,Maths,Mid Term,99,100,Term 1
+STU163,Maths,Final,47,100,Term 2
+STU163,Science,Unit Test,83,100,Term 1
+STU163,Science,Mid Term,96,100,Term 2
+STU163,English,Final,59,100,Term 1
+STU163,English,Final,81,100,Term 2
+STU163,Hindi,Unit Test,76,100,Term 1
+STU163,Hindi,Unit Test,66,100,Term 2
+STU163,Social Science,Final,49,100,Term 1
+STU163,Social Science,Unit Test,67,100,Term 2
+STU163,Computer,Mid Term,55,100,Term 1
+STU163,Computer,Final,50,100,Term 2
+STU164,Maths,Final,87,100,Term 1
+STU164,Maths,Final,91,100,Term 2
+STU164,Science,Mid Term,73,100,Term 1
+STU164,Science,Unit Test,61,100,Term 2
+STU164,English,Unit Test,60,100,Term 1
+STU164,English,Final,49,100,Term 2
+STU164,Hindi,Mid Term,61,100,Term 1
+STU164,Hindi,Unit Test,91,100,Term 2
+STU164,Social Science,Unit Test,48,100,Term 1
+STU164,Social Science,Mid Term,73,100,Term 2
+STU164,Computer,Final,71,100,Term 1
+STU164,Computer,Unit Test,71,100,Term 2
+STU165,Maths,Mid Term,69,100,Term 1
+STU165,Maths,Mid Term,79,100,Term 2
+STU165,Science,Mid Term,51,100,Term 1
+STU165,Science,Mid Term,95,100,Term 2
+STU165,English,Final,86,100,Term 1
+STU165,English,Final,59,100,Term 2
+STU165,Hindi,Unit Test,73,100,Term 1
+STU165,Hindi,Unit Test,96,100,Term 2
+STU165,Social Science,Unit Test,63,100,Term 1
+STU165,Social Science,Unit Test,65,100,Term 2
+STU165,Computer,Mid Term,51,100,Term 1
+STU165,Computer,Unit Test,66,100,Term 2
+STU166,Maths,Unit Test,69,100,Term 1
+STU166,Maths,Unit Test,91,100,Term 2
+STU166,Science,Unit Test,80,100,Term 1
+STU166,Science,Unit Test,66,100,Term 2
+STU166,English,Final,84,100,Term 1
+STU166,English,Mid Term,90,100,Term 2
+STU166,Hindi,Unit Test,72,100,Term 1
+STU166,Hindi,Final,55,100,Term 2
+STU166,Social Science,Final,72,100,Term 1
+STU166,Social Science,Unit Test,48,100,Term 2
+STU166,Computer,Unit Test,66,100,Term 1
+STU166,Computer,Unit Test,57,100,Term 2
+STU167,Maths,Mid Term,89,100,Term 1
+STU167,Maths,Final,91,100,Term 2
+STU167,Science,Final,79,100,Term 1
+STU167,Science,Mid Term,87,100,Term 2
+STU167,English,Mid Term,64,100,Term 1
+STU167,English,Unit Test,51,100,Term 2
+STU167,Hindi,Unit Test,70,100,Term 1
+STU167,Hindi,Final,80,100,Term 2
+STU167,Social Science,Mid Term,54,100,Term 1
+STU167,Social Science,Unit Test,68,100,Term 2
+STU167,Computer,Unit Test,72,100,Term 1
+STU167,Computer,Unit Test,63,100,Term 2
+STU168,Maths,Final,85,100,Term 1
+STU168,Maths,Final,75,100,Term 2
+STU168,Science,Unit Test,51,100,Term 1
+STU168,Science,Unit Test,58,100,Term 2
+STU168,English,Unit Test,85,100,Term 1
+STU168,English,Mid Term,50,100,Term 2
+STU168,Hindi,Mid Term,99,100,Term 1
+STU168,Hindi,Unit Test,64,100,Term 2
+STU168,Social Science,Mid Term,75,100,Term 1
+STU168,Social Science,Mid Term,87,100,Term 2
+STU168,Computer,Mid Term,50,100,Term 1
+STU168,Computer,Final,79,100,Term 2
+STU169,Maths,Mid Term,56,100,Term 1
+STU169,Maths,Mid Term,69,100,Term 2
+STU169,Science,Mid Term,56,100,Term 1
+STU169,Science,Mid Term,47,100,Term 2
+STU169,English,Mid Term,73,100,Term 1
+STU169,English,Mid Term,61,100,Term 2
+STU169,Hindi,Unit Test,98,100,Term 1
+STU169,Hindi,Mid Term,81,100,Term 2
+STU169,Social Science,Unit Test,54,100,Term 1
+STU169,Social Science,Final,87,100,Term 2
+STU169,Computer,Unit Test,50,100,Term 1
+STU169,Computer,Final,67,100,Term 2
+STU170,Maths,Final,71,100,Term 1
+STU170,Maths,Final,59,100,Term 2
+STU170,Science,Final,48,100,Term 1
+STU170,Science,Mid Term,97,100,Term 2
+STU170,English,Final,71,100,Term 1
+STU170,English,Final,88,100,Term 2
+STU170,Hindi,Mid Term,81,100,Term 1
+STU170,Hindi,Unit Test,75,100,Term 2
+STU170,Social Science,Mid Term,50,100,Term 1
+STU170,Social Science,Mid Term,99,100,Term 2
+STU170,Computer,Final,47,100,Term 1
+STU170,Computer,Final,81,100,Term 2
+STU171,Maths,Final,96,100,Term 1
+STU171,Maths,Final,88,100,Term 2
+STU171,Science,Final,54,100,Term 1
+STU171,Science,Unit Test,93,100,Term 2
+STU171,English,Mid Term,56,100,Term 1
+STU171,English,Unit Test,58,100,Term 2
+STU171,Hindi,Unit Test,53,100,Term 1
+STU171,Hindi,Unit Test,72,100,Term 2
+STU171,Social Science,Unit Test,88,100,Term 1
+STU171,Social Science,Mid Term,57,100,Term 2
+STU171,Computer,Final,54,100,Term 1
+STU171,Computer,Final,61,100,Term 2
+STU172,Maths,Mid Term,91,100,Term 1
+STU172,Maths,Unit Test,50,100,Term 2
+STU172,Science,Mid Term,80,100,Term 1
+STU172,Science,Mid Term,80,100,Term 2
+STU172,English,Mid Term,99,100,Term 1
+STU172,English,Mid Term,78,100,Term 2
+STU172,Hindi,Mid Term,100,100,Term 1
+STU172,Hindi,Unit Test,95,100,Term 2
+STU172,Social Science,Final,84,100,Term 1
+STU172,Social Science,Final,78,100,Term 2
+STU172,Computer,Mid Term,52,100,Term 1
+STU172,Computer,Mid Term,54,100,Term 2
+STU173,Maths,Unit Test,81,100,Term 1
+STU173,Maths,Final,82,100,Term 2
+STU173,Science,Unit Test,51,100,Term 1
+STU173,Science,Final,94,100,Term 2
+STU173,English,Unit Test,95,100,Term 1
+STU173,English,Mid Term,100,100,Term 2
+STU173,Hindi,Final,67,100,Term 1
+STU173,Hindi,Mid Term,61,100,Term 2
+STU173,Social Science,Mid Term,86,100,Term 1
+STU173,Social Science,Mid Term,81,100,Term 2
+STU173,Computer,Final,75,100,Term 1
+STU173,Computer,Unit Test,56,100,Term 2
+STU174,Maths,Mid Term,70,100,Term 1
+STU174,Maths,Unit Test,84,100,Term 2
+STU174,Science,Final,88,100,Term 1
+STU174,Science,Final,70,100,Term 2
+STU174,English,Unit Test,70,100,Term 1
+STU174,English,Mid Term,89,100,Term 2
+STU174,Hindi,Unit Test,48,100,Term 1
+STU174,Hindi,Final,75,100,Term 2
+STU174,Social Science,Mid Term,68,100,Term 1
+STU174,Social Science,Unit Test,66,100,Term 2
+STU174,Computer,Mid Term,64,100,Term 1
+STU174,Computer,Mid Term,98,100,Term 2
+STU175,Maths,Mid Term,99,100,Term 1
+STU175,Maths,Final,88,100,Term 2
+STU175,Science,Unit Test,100,100,Term 1
+STU175,Science,Unit Test,53,100,Term 2
+STU175,English,Mid Term,92,100,Term 1
+STU175,English,Mid Term,94,100,Term 2
+STU175,Hindi,Mid Term,62,100,Term 1
+STU175,Hindi,Final,71,100,Term 2
+STU175,Social Science,Final,86,100,Term 1
+STU175,Social Science,Unit Test,57,100,Term 2
+STU175,Computer,Mid Term,58,100,Term 1
+STU175,Computer,Mid Term,92,100,Term 2
+STU176,Maths,Mid Term,93,100,Term 1
+STU176,Maths,Final,100,100,Term 2
+STU176,Science,Mid Term,97,100,Term 1
+STU176,Science,Unit Test,77,100,Term 2
+STU176,English,Unit Test,49,100,Term 1
+STU176,English,Mid Term,90,100,Term 2
+STU176,Hindi,Final,70,100,Term 1
+STU176,Hindi,Unit Test,94,100,Term 2
+STU176,Social Science,Final,81,100,Term 1
+STU176,Social Science,Unit Test,56,100,Term 2
+STU176,Computer,Unit Test,98,100,Term 1
+STU176,Computer,Unit Test,98,100,Term 2
+STU177,Maths,Unit Test,60,100,Term 1
+STU177,Maths,Unit Test,74,100,Term 2
+STU177,Science,Unit Test,68,100,Term 1
+STU177,Science,Final,57,100,Term 2
+STU177,English,Mid Term,68,100,Term 1
+STU177,English,Mid Term,77,100,Term 2
+STU177,Hindi,Mid Term,85,100,Term 1
+STU177,Hindi,Unit Test,88,100,Term 2
+STU177,Social Science,Unit Test,60,100,Term 1
+STU177,Social Science,Mid Term,76,100,Term 2
+STU177,Computer,Final,73,100,Term 1
+STU177,Computer,Unit Test,100,100,Term 2
+STU178,Maths,Mid Term,82,100,Term 1
+STU178,Maths,Final,67,100,Term 2
+STU178,Science,Mid Term,55,100,Term 1
+STU178,Science,Mid Term,92,100,Term 2
+STU178,English,Final,50,100,Term 1
+STU178,English,Mid Term,46,100,Term 2
+STU178,Hindi,Mid Term,48,100,Term 1
+STU178,Hindi,Unit Test,99,100,Term 2
+STU178,Social Science,Final,94,100,Term 1
+STU178,Social Science,Unit Test,99,100,Term 2
+STU178,Computer,Unit Test,86,100,Term 1
+STU178,Computer,Unit Test,88,100,Term 2
+STU179,Maths,Unit Test,62,100,Term 1
+STU179,Maths,Final,71,100,Term 2
+STU179,Science,Final,46,100,Term 1
+STU179,Science,Final,45,100,Term 2
+STU179,English,Mid Term,53,100,Term 1
+STU179,English,Final,56,100,Term 2
+STU179,Hindi,Final,96,100,Term 1
+STU179,Hindi,Unit Test,59,100,Term 2
+STU179,Social Science,Mid Term,83,100,Term 1
+STU179,Social Science,Mid Term,90,100,Term 2
+STU179,Computer,Final,86,100,Term 1
+STU179,Computer,Mid Term,72,100,Term 2
+STU180,Maths,Mid Term,99,100,Term 1
+STU180,Maths,Mid Term,74,100,Term 2
+STU180,Science,Mid Term,58,100,Term 1
+STU180,Science,Mid Term,64,100,Term 2
+STU180,English,Final,78,100,Term 1
+STU180,English,Final,70,100,Term 2
+STU180,Hindi,Final,51,100,Term 1
+STU180,Hindi,Unit Test,77,100,Term 2
+STU180,Social Science,Final,98,100,Term 1
+STU180,Social Science,Mid Term,80,100,Term 2
+STU180,Computer,Final,83,100,Term 1
+STU180,Computer,Final,63,100,Term 2
+STU181,Maths,Mid Term,88,100,Term 1
+STU181,Maths,Unit Test,75,100,Term 2
+STU181,Science,Unit Test,66,100,Term 1
+STU181,Science,Mid Term,85,100,Term 2
+STU181,English,Mid Term,100,100,Term 1
+STU181,English,Mid Term,61,100,Term 2
+STU181,Hindi,Final,90,100,Term 1
+STU181,Hindi,Final,64,100,Term 2
+STU181,Social Science,Unit Test,54,100,Term 1
+STU181,Social Science,Final,93,100,Term 2
+STU181,Computer,Unit Test,48,100,Term 1
+STU181,Computer,Final,70,100,Term 2
+STU182,Maths,Final,65,100,Term 1
+STU182,Maths,Final,53,100,Term 2
+STU182,Science,Final,46,100,Term 1
+STU182,Science,Final,76,100,Term 2
+STU182,English,Mid Term,61,100,Term 1
+STU182,English,Mid Term,70,100,Term 2
+STU182,Hindi,Mid Term,92,100,Term 1
+STU182,Hindi,Unit Test,82,100,Term 2
+STU182,Social Science,Final,81,100,Term 1
+STU182,Social Science,Unit Test,66,100,Term 2
+STU182,Computer,Final,90,100,Term 1
+STU182,Computer,Unit Test,88,100,Term 2
+STU183,Maths,Final,85,100,Term 1
+STU183,Maths,Mid Term,87,100,Term 2
+STU183,Science,Mid Term,77,100,Term 1
+STU183,Science,Mid Term,99,100,Term 2
+STU183,English,Unit Test,98,100,Term 1
+STU183,English,Final,80,100,Term 2
+STU183,Hindi,Unit Test,63,100,Term 1
+STU183,Hindi,Unit Test,75,100,Term 2
+STU183,Social Science,Unit Test,92,100,Term 1
+STU183,Social Science,Mid Term,91,100,Term 2
+STU183,Computer,Final,93,100,Term 1
+STU183,Computer,Unit Test,88,100,Term 2
+STU184,Maths,Mid Term,86,100,Term 1
+STU184,Maths,Unit Test,59,100,Term 2
+STU184,Science,Mid Term,59,100,Term 1
+STU184,Science,Final,100,100,Term 2
+STU184,English,Mid Term,71,100,Term 1
+STU184,English,Mid Term,68,100,Term 2
+STU184,Hindi,Mid Term,82,100,Term 1
+STU184,Hindi,Mid Term,74,100,Term 2
+STU184,Social Science,Unit Test,75,100,Term 1
+STU184,Social Science,Unit Test,100,100,Term 2
+STU184,Computer,Final,82,100,Term 1
+STU184,Computer,Final,84,100,Term 2
+STU185,Maths,Unit Test,75,100,Term 1
+STU185,Maths,Unit Test,77,100,Term 2
+STU185,Science,Unit Test,100,100,Term 1
+STU185,Science,Final,69,100,Term 2
+STU185,English,Final,64,100,Term 1
+STU185,English,Mid Term,48,100,Term 2
+STU185,Hindi,Unit Test,53,100,Term 1
+STU185,Hindi,Unit Test,66,100,Term 2
+STU185,Social Science,Mid Term,81,100,Term 1
+STU185,Social Science,Mid Term,54,100,Term 2
+STU185,Computer,Mid Term,100,100,Term 1
+STU185,Computer,Final,56,100,Term 2
+STU186,Maths,Unit Test,76,100,Term 1
+STU186,Maths,Mid Term,85,100,Term 2
+STU186,Science,Unit Test,65,100,Term 1
+STU186,Science,Final,48,100,Term 2
+STU186,English,Unit Test,73,100,Term 1
+STU186,English,Mid Term,58,100,Term 2
+STU186,Hindi,Unit Test,81,100,Term 1
+STU186,Hindi,Unit Test,76,100,Term 2
+STU186,Social Science,Unit Test,53,100,Term 1
+STU186,Social Science,Final,72,100,Term 2
+STU186,Computer,Final,72,100,Term 1
+STU186,Computer,Mid Term,72,100,Term 2
+STU187,Maths,Mid Term,69,100,Term 1
+STU187,Maths,Unit Test,47,100,Term 2
+STU187,Science,Final,57,100,Term 1
+STU187,Science,Final,68,100,Term 2
+STU187,English,Unit Test,65,100,Term 1
+STU187,English,Final,57,100,Term 2
+STU187,Hindi,Unit Test,88,100,Term 1
+STU187,Hindi,Unit Test,85,100,Term 2
+STU187,Social Science,Final,60,100,Term 1
+STU187,Social Science,Unit Test,89,100,Term 2
+STU187,Computer,Mid Term,64,100,Term 1
+STU187,Computer,Unit Test,51,100,Term 2
+STU188,Maths,Mid Term,77,100,Term 1
+STU188,Maths,Final,64,100,Term 2
+STU188,Science,Unit Test,49,100,Term 1
+STU188,Science,Unit Test,64,100,Term 2
+STU188,English,Mid Term,74,100,Term 1
+STU188,English,Final,78,100,Term 2
+STU188,Hindi,Final,78,100,Term 1
+STU188,Hindi,Mid Term,72,100,Term 2
+STU188,Social Science,Final,53,100,Term 1
+STU188,Social Science,Mid Term,76,100,Term 2
+STU188,Computer,Mid Term,93,100,Term 1
+STU188,Computer,Unit Test,55,100,Term 2
+STU189,Maths,Mid Term,46,100,Term 1
+STU189,Maths,Unit Test,59,100,Term 2
+STU189,Science,Final,53,100,Term 1
+STU189,Science,Unit Test,91,100,Term 2
+STU189,English,Unit Test,82,100,Term 1
+STU189,English,Final,55,100,Term 2
+STU189,Hindi,Unit Test,68,100,Term 1
+STU189,Hindi,Final,86,100,Term 2
+STU189,Social Science,Unit Test,69,100,Term 1
+STU189,Social Science,Final,61,100,Term 2
+STU189,Computer,Final,84,100,Term 1
+STU189,Computer,Unit Test,83,100,Term 2
+STU190,Maths,Unit Test,87,100,Term 1
+STU190,Maths,Unit Test,86,100,Term 2
+STU190,Science,Unit Test,48,100,Term 1
+STU190,Science,Final,52,100,Term 2
+STU190,English,Mid Term,73,100,Term 1
+STU190,English,Mid Term,52,100,Term 2
+STU190,Hindi,Final,61,100,Term 1
+STU190,Hindi,Mid Term,89,100,Term 2
+STU190,Social Science,Unit Test,58,100,Term 1
+STU190,Social Science,Final,88,100,Term 2
+STU190,Computer,Final,45,100,Term 1
+STU190,Computer,Mid Term,71,100,Term 2
+STU191,Maths,Final,51,100,Term 1
+STU191,Maths,Final,78,100,Term 2
+STU191,Science,Mid Term,84,100,Term 1
+STU191,Science,Final,89,100,Term 2
+STU191,English,Unit Test,71,100,Term 1
+STU191,English,Unit Test,77,100,Term 2
+STU191,Hindi,Final,84,100,Term 1
+STU191,Hindi,Unit Test,63,100,Term 2
+STU191,Social Science,Unit Test,95,100,Term 1
+STU191,Social Science,Unit Test,76,100,Term 2
+STU191,Computer,Unit Test,83,100,Term 1
+STU191,Computer,Unit Test,94,100,Term 2
+STU192,Maths,Mid Term,98,100,Term 1
+STU192,Maths,Final,57,100,Term 2
+STU192,Science,Mid Term,90,100,Term 1
+STU192,Science,Mid Term,63,100,Term 2
+STU192,English,Unit Test,47,100,Term 1
+STU192,English,Final,76,100,Term 2
+STU192,Hindi,Unit Test,89,100,Term 1
+STU192,Hindi,Mid Term,66,100,Term 2
+STU192,Social Science,Unit Test,45,100,Term 1
+STU192,Social Science,Unit Test,87,100,Term 2
+STU192,Computer,Unit Test,52,100,Term 1
+STU192,Computer,Final,87,100,Term 2
+STU193,Maths,Mid Term,54,100,Term 1
+STU193,Maths,Unit Test,94,100,Term 2
+STU193,Science,Final,49,100,Term 1
+STU193,Science,Final,91,100,Term 2
+STU193,English,Unit Test,61,100,Term 1
+STU193,English,Final,59,100,Term 2
+STU193,Hindi,Mid Term,63,100,Term 1
+STU193,Hindi,Mid Term,74,100,Term 2
+STU193,Social Science,Unit Test,51,100,Term 1
+STU193,Social Science,Unit Test,100,100,Term 2
+STU193,Computer,Unit Test,99,100,Term 1
+STU193,Computer,Mid Term,68,100,Term 2
+STU194,Maths,Final,65,100,Term 1
+STU194,Maths,Mid Term,92,100,Term 2
+STU194,Science,Unit Test,51,100,Term 1
+STU194,Science,Unit Test,45,100,Term 2
+STU194,English,Unit Test,87,100,Term 1
+STU194,English,Final,55,100,Term 2
+STU194,Hindi,Mid Term,67,100,Term 1
+STU194,Hindi,Mid Term,84,100,Term 2
+STU194,Social Science,Mid Term,91,100,Term 1
+STU194,Social Science,Unit Test,68,100,Term 2
+STU194,Computer,Mid Term,56,100,Term 1
+STU194,Computer,Unit Test,70,100,Term 2
+STU195,Maths,Mid Term,74,100,Term 1
+STU195,Maths,Mid Term,98,100,Term 2
+STU195,Science,Mid Term,89,100,Term 1
+STU195,Science,Mid Term,96,100,Term 2
+STU195,English,Mid Term,86,100,Term 1
+STU195,English,Unit Test,52,100,Term 2
+STU195,Hindi,Unit Test,89,100,Term 1
+STU195,Hindi,Final,48,100,Term 2
+STU195,Social Science,Unit Test,51,100,Term 1
+STU195,Social Science,Mid Term,82,100,Term 2
+STU195,Computer,Mid Term,96,100,Term 1
+STU195,Computer,Final,88,100,Term 2
+STU196,Maths,Mid Term,56,100,Term 1
+STU196,Maths,Final,69,100,Term 2
+STU196,Science,Mid Term,84,100,Term 1
+STU196,Science,Unit Test,100,100,Term 2
+STU196,English,Final,98,100,Term 1
+STU196,English,Final,53,100,Term 2
+STU196,Hindi,Mid Term,76,100,Term 1
+STU196,Hindi,Unit Test,71,100,Term 2
+STU196,Social Science,Mid Term,47,100,Term 1
+STU196,Social Science,Unit Test,61,100,Term 2
+STU196,Computer,Final,65,100,Term 1
+STU196,Computer,Unit Test,90,100,Term 2
+STU197,Maths,Final,78,100,Term 1
+STU197,Maths,Final,81,100,Term 2
+STU197,Science,Final,81,100,Term 1
+STU197,Science,Unit Test,87,100,Term 2
+STU197,English,Mid Term,78,100,Term 1
+STU197,English,Final,89,100,Term 2
+STU197,Hindi,Final,84,100,Term 1
+STU197,Hindi,Unit Test,72,100,Term 2
+STU197,Social Science,Final,91,100,Term 1
+STU197,Social Science,Unit Test,75,100,Term 2
+STU197,Computer,Mid Term,87,100,Term 1
+STU197,Computer,Final,86,100,Term 2
+STU198,Maths,Mid Term,54,100,Term 1
+STU198,Maths,Final,84,100,Term 2
+STU198,Science,Unit Test,45,100,Term 1
+STU198,Science,Final,55,100,Term 2
+STU198,English,Final,99,100,Term 1
+STU198,English,Mid Term,99,100,Term 2
+STU198,Hindi,Mid Term,100,100,Term 1
+STU198,Hindi,Unit Test,49,100,Term 2
+STU198,Social Science,Mid Term,65,100,Term 1
+STU198,Social Science,Unit Test,66,100,Term 2
+STU198,Computer,Mid Term,48,100,Term 1
+STU198,Computer,Final,59,100,Term 2
+STU199,Maths,Final,86,100,Term 1
+STU199,Maths,Mid Term,70,100,Term 2
+STU199,Science,Unit Test,50,100,Term 1
+STU199,Science,Mid Term,73,100,Term 2
+STU199,English,Final,73,100,Term 1
+STU199,English,Unit Test,99,100,Term 2
+STU199,Hindi,Mid Term,73,100,Term 1
+STU199,Hindi,Mid Term,52,100,Term 2
+STU199,Social Science,Mid Term,92,100,Term 1
+STU199,Social Science,Final,46,100,Term 2
+STU199,Computer,Unit Test,70,100,Term 1
+STU199,Computer,Mid Term,47,100,Term 2
+STU200,Maths,Final,80,100,Term 1
+STU200,Maths,Unit Test,97,100,Term 2
+STU200,Science,Unit Test,95,100,Term 1
+STU200,Science,Final,84,100,Term 2
+STU200,English,Final,64,100,Term 1
+STU200,English,Final,80,100,Term 2
+STU200,Hindi,Unit Test,86,100,Term 1
+STU200,Hindi,Final,74,100,Term 2
+STU200,Social Science,Mid Term,68,100,Term 1
+STU200,Social Science,Unit Test,97,100,Term 2
+STU200,Computer,Unit Test,99,100,Term 1
+STU200,Computer,Mid Term,66,100,Term 2

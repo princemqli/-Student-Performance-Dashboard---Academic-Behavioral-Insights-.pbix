@@ -1,0 +1,754 @@
+StudentID,Date,BehaviorType,Notes
+STU001,2025-06-02,Homework Missing,Homework not submitted
+STU001,2025-06-08,Discipline Issue,Classroom discipline issue
+STU001,2025-06-08,Discipline Issue,Classroom discipline issue
+STU002,2025-06-17,Late,Arrived late
+STU002,2025-06-06,Helping Others,Helped classmates
+STU002,2025-06-01,Late,Arrived late
+STU002,2025-06-16,Excellent,Outstanding performance
+STU002,2025-06-07,Excellent,Outstanding performance
+STU002,2025-06-05,Excellent,Outstanding performance
+STU003,2025-06-03,Good,Good classroom participation
+STU003,2025-06-19,Good,Good classroom participation
+STU003,2025-06-07,Homework Missing,Homework not submitted
+STU004,2025-06-03,Homework Missing,Homework not submitted
+STU004,2025-06-15,Late,Arrived late
+STU004,2025-06-06,Helping Others,Helped classmates
+STU005,2025-06-14,Good,Good classroom participation
+STU005,2025-06-20,Good,Good classroom participation
+STU005,2025-06-10,Good,Good classroom participation
+STU006,2025-06-15,Homework Missing,Homework not submitted
+STU006,2025-06-07,Discipline Issue,Classroom discipline issue
+STU006,2025-06-16,Helping Others,Helped classmates
+STU006,2025-06-12,Excellent,Outstanding performance
+STU007,2025-06-06,Late,Arrived late
+STU007,2025-06-15,Late,Arrived late
+STU007,2025-06-17,Late,Arrived late
+STU007,2025-06-14,Homework Missing,Homework not submitted
+STU007,2025-06-16,Good,Good classroom participation
+STU008,2025-06-14,Late,Arrived late
+STU008,2025-06-10,Excellent,Outstanding performance
+STU009,2025-06-05,Homework Missing,Homework not submitted
+STU009,2025-06-06,Homework Missing,Homework not submitted
+STU009,2025-06-13,Helping Others,Helped classmates
+STU009,2025-06-10,Late,Arrived late
+STU009,2025-06-10,Late,Arrived late
+STU009,2025-06-18,Late,Arrived late
+STU010,2025-06-03,Late,Arrived late
+STU010,2025-06-05,Helping Others,Helped classmates
+STU010,2025-06-16,Discipline Issue,Classroom discipline issue
+STU010,2025-06-05,Good,Good classroom participation
+STU010,2025-06-01,Good,Good classroom participation
+STU010,2025-06-17,Excellent,Outstanding performance
+STU011,2025-06-13,Late,Arrived late
+STU011,2025-06-13,Late,Arrived late
+STU011,2025-06-12,Discipline Issue,Classroom discipline issue
+STU011,2025-06-16,Late,Arrived late
+STU012,2025-06-19,Discipline Issue,Classroom discipline issue
+STU012,2025-06-14,Excellent,Outstanding performance
+STU012,2025-06-04,Excellent,Outstanding performance
+STU012,2025-06-19,Late,Arrived late
+STU013,2025-06-14,Good,Good classroom participation
+STU013,2025-06-12,Helping Others,Helped classmates
+STU013,2025-06-16,Homework Missing,Homework not submitted
+STU014,2025-06-02,Discipline Issue,Classroom discipline issue
+STU014,2025-06-13,Discipline Issue,Classroom discipline issue
+STU014,2025-06-08,Late,Arrived late
+STU014,2025-06-16,Good,Good classroom participation
+STU015,2025-06-01,Helping Others,Helped classmates
+STU015,2025-06-05,Discipline Issue,Classroom discipline issue
+STU016,2025-06-15,Homework Missing,Homework not submitted
+STU016,2025-06-05,Discipline Issue,Classroom discipline issue
+STU016,2025-06-08,Helping Others,Helped classmates
+STU016,2025-06-19,Homework Missing,Homework not submitted
+STU017,2025-06-04,Excellent,Outstanding performance
+STU017,2025-06-13,Excellent,Outstanding performance
+STU017,2025-06-19,Late,Arrived late
+STU018,2025-06-07,Homework Missing,Homework not submitted
+STU018,2025-06-06,Late,Arrived late
+STU019,2025-06-10,Helping Others,Helped classmates
+STU019,2025-06-18,Homework Missing,Homework not submitted
+STU019,2025-06-13,Discipline Issue,Classroom discipline issue
+STU019,2025-06-10,Homework Missing,Homework not submitted
+STU019,2025-06-14,Discipline Issue,Classroom discipline issue
+STU020,2025-06-19,Excellent,Outstanding performance
+STU020,2025-06-05,Helping Others,Helped classmates
+STU021,2025-06-07,Discipline Issue,Classroom discipline issue
+STU021,2025-06-13,Discipline Issue,Classroom discipline issue
+STU021,2025-06-10,Discipline Issue,Classroom discipline issue
+STU021,2025-06-06,Excellent,Outstanding performance
+STU022,2025-06-04,Excellent,Outstanding performance
+STU022,2025-06-14,Excellent,Outstanding performance
+STU022,2025-06-14,Homework Missing,Homework not submitted
+STU022,2025-06-10,Discipline Issue,Classroom discipline issue
+STU022,2025-06-14,Discipline Issue,Classroom discipline issue
+STU023,2025-06-12,Good,Good classroom participation
+STU023,2025-06-05,Good,Good classroom participation
+STU023,2025-06-16,Good,Good classroom participation
+STU024,2025-06-04,Homework Missing,Homework not submitted
+STU024,2025-06-19,Late,Arrived late
+STU024,2025-06-06,Good,Good classroom participation
+STU025,2025-06-06,Excellent,Outstanding performance
+STU025,2025-06-09,Good,Good classroom participation
+STU025,2025-06-15,Late,Arrived late
+STU026,2025-06-06,Excellent,Outstanding performance
+STU026,2025-06-10,Excellent,Outstanding performance
+STU026,2025-06-13,Excellent,Outstanding performance
+STU026,2025-06-09,Excellent,Outstanding performance
+STU026,2025-06-11,Excellent,Outstanding performance
+STU026,2025-06-19,Excellent,Outstanding performance
+STU027,2025-06-16,Late,Arrived late
+STU027,2025-06-04,Discipline Issue,Classroom discipline issue
+STU027,2025-06-02,Excellent,Outstanding performance
+STU028,2025-06-19,Excellent,Outstanding performance
+STU028,2025-06-04,Excellent,Outstanding performance
+STU028,2025-06-17,Good,Good classroom participation
+STU028,2025-06-13,Excellent,Outstanding performance
+STU029,2025-06-09,Homework Missing,Homework not submitted
+STU029,2025-06-16,Late,Arrived late
+STU029,2025-06-20,Helping Others,Helped classmates
+STU029,2025-06-11,Late,Arrived late
+STU029,2025-06-11,Helping Others,Helped classmates
+STU029,2025-06-08,Helping Others,Helped classmates
+STU030,2025-06-13,Discipline Issue,Classroom discipline issue
+STU030,2025-06-20,Late,Arrived late
+STU030,2025-06-12,Excellent,Outstanding performance
+STU030,2025-06-04,Helping Others,Helped classmates
+STU031,2025-06-13,Late,Arrived late
+STU031,2025-06-05,Discipline Issue,Classroom discipline issue
+STU032,2025-06-04,Homework Missing,Homework not submitted
+STU032,2025-06-09,Homework Missing,Homework not submitted
+STU033,2025-06-15,Helping Others,Helped classmates
+STU033,2025-06-16,Homework Missing,Homework not submitted
+STU033,2025-06-14,Homework Missing,Homework not submitted
+STU034,2025-06-11,Excellent,Outstanding performance
+STU034,2025-06-12,Excellent,Outstanding performance
+STU034,2025-06-11,Excellent,Outstanding performance
+STU035,2025-06-20,Good,Good classroom participation
+STU035,2025-06-13,Late,Arrived late
+STU035,2025-06-20,Discipline Issue,Classroom discipline issue
+STU035,2025-06-12,Excellent,Outstanding performance
+STU035,2025-06-16,Late,Arrived late
+STU036,2025-06-13,Discipline Issue,Classroom discipline issue
+STU036,2025-06-20,Helping Others,Helped classmates
+STU037,2025-06-05,Discipline Issue,Classroom discipline issue
+STU037,2025-06-19,Homework Missing,Homework not submitted
+STU037,2025-06-17,Discipline Issue,Classroom discipline issue
+STU038,2025-06-16,Good,Good classroom participation
+STU038,2025-06-10,Excellent,Outstanding performance
+STU039,2025-06-06,Late,Arrived late
+STU039,2025-06-04,Late,Arrived late
+STU039,2025-06-18,Late,Arrived late
+STU039,2025-06-08,Good,Good classroom participation
+STU039,2025-06-06,Good,Good classroom participation
+STU039,2025-06-03,Discipline Issue,Classroom discipline issue
+STU040,2025-06-01,Late,Arrived late
+STU040,2025-06-11,Good,Good classroom participation
+STU041,2025-06-08,Helping Others,Helped classmates
+STU041,2025-06-09,Discipline Issue,Classroom discipline issue
+STU041,2025-06-16,Discipline Issue,Classroom discipline issue
+STU041,2025-06-04,Discipline Issue,Classroom discipline issue
+STU041,2025-06-05,Discipline Issue,Classroom discipline issue
+STU042,2025-06-16,Discipline Issue,Classroom discipline issue
+STU042,2025-06-11,Excellent,Outstanding performance
+STU042,2025-06-19,Good,Good classroom participation
+STU042,2025-06-03,Homework Missing,Homework not submitted
+STU042,2025-06-11,Discipline Issue,Classroom discipline issue
+STU042,2025-06-13,Late,Arrived late
+STU043,2025-06-08,Late,Arrived late
+STU043,2025-06-09,Good,Good classroom participation
+STU043,2025-06-10,Excellent,Outstanding performance
+STU043,2025-06-04,Excellent,Outstanding performance
+STU043,2025-06-11,Excellent,Outstanding performance
+STU043,2025-06-19,Discipline Issue,Classroom discipline issue
+STU044,2025-06-04,Discipline Issue,Classroom discipline issue
+STU044,2025-06-12,Homework Missing,Homework not submitted
+STU044,2025-06-11,Good,Good classroom participation
+STU045,2025-06-01,Homework Missing,Homework not submitted
+STU045,2025-06-02,Helping Others,Helped classmates
+STU045,2025-06-18,Homework Missing,Homework not submitted
+STU045,2025-06-13,Good,Good classroom participation
+STU045,2025-06-11,Late,Arrived late
+STU046,2025-06-05,Discipline Issue,Classroom discipline issue
+STU046,2025-06-20,Homework Missing,Homework not submitted
+STU046,2025-06-08,Homework Missing,Homework not submitted
+STU046,2025-06-13,Excellent,Outstanding performance
+STU047,2025-06-15,Homework Missing,Homework not submitted
+STU047,2025-06-05,Helping Others,Helped classmates
+STU048,2025-06-16,Good,Good classroom participation
+STU048,2025-06-15,Discipline Issue,Classroom discipline issue
+STU048,2025-06-20,Good,Good classroom participation
+STU048,2025-06-05,Helping Others,Helped classmates
+STU049,2025-06-11,Homework Missing,Homework not submitted
+STU049,2025-06-17,Helping Others,Helped classmates
+STU050,2025-06-19,Helping Others,Helped classmates
+STU050,2025-06-07,Late,Arrived late
+STU051,2025-06-13,Helping Others,Helped classmates
+STU051,2025-06-11,Excellent,Outstanding performance
+STU051,2025-06-07,Good,Good classroom participation
+STU051,2025-06-08,Discipline Issue,Classroom discipline issue
+STU051,2025-06-02,Discipline Issue,Classroom discipline issue
+STU052,2025-06-13,Late,Arrived late
+STU052,2025-06-06,Helping Others,Helped classmates
+STU052,2025-06-18,Excellent,Outstanding performance
+STU053,2025-06-14,Helping Others,Helped classmates
+STU053,2025-06-16,Discipline Issue,Classroom discipline issue
+STU053,2025-06-13,Helping Others,Helped classmates
+STU053,2025-06-03,Late,Arrived late
+STU053,2025-06-10,Homework Missing,Homework not submitted
+STU054,2025-06-07,Discipline Issue,Classroom discipline issue
+STU054,2025-06-18,Discipline Issue,Classroom discipline issue
+STU054,2025-06-04,Late,Arrived late
+STU054,2025-06-11,Good,Good classroom participation
+STU055,2025-06-10,Excellent,Outstanding performance
+STU055,2025-06-06,Late,Arrived late
+STU055,2025-06-05,Homework Missing,Homework not submitted
+STU055,2025-06-16,Late,Arrived late
+STU055,2025-06-05,Helping Others,Helped classmates
+STU055,2025-06-07,Good,Good classroom participation
+STU056,2025-06-01,Discipline Issue,Classroom discipline issue
+STU056,2025-06-19,Helping Others,Helped classmates
+STU056,2025-06-05,Excellent,Outstanding performance
+STU057,2025-06-06,Late,Arrived late
+STU057,2025-06-04,Excellent,Outstanding performance
+STU057,2025-06-16,Helping Others,Helped classmates
+STU057,2025-06-02,Good,Good classroom participation
+STU057,2025-06-17,Excellent,Outstanding performance
+STU058,2025-06-14,Homework Missing,Homework not submitted
+STU058,2025-06-13,Good,Good classroom participation
+STU058,2025-06-02,Good,Good classroom participation
+STU058,2025-06-08,Excellent,Outstanding performance
+STU059,2025-06-10,Late,Arrived late
+STU059,2025-06-20,Discipline Issue,Classroom discipline issue
+STU059,2025-06-13,Good,Good classroom participation
+STU059,2025-06-03,Discipline Issue,Classroom discipline issue
+STU059,2025-06-13,Late,Arrived late
+STU060,2025-06-15,Discipline Issue,Classroom discipline issue
+STU060,2025-06-01,Helping Others,Helped classmates
+STU060,2025-06-04,Excellent,Outstanding performance
+STU060,2025-06-04,Excellent,Outstanding performance
+STU061,2025-06-17,Discipline Issue,Classroom discipline issue
+STU061,2025-06-01,Good,Good classroom participation
+STU061,2025-06-19,Homework Missing,Homework not submitted
+STU061,2025-06-16,Homework Missing,Homework not submitted
+STU061,2025-06-04,Helping Others,Helped classmates
+STU062,2025-06-13,Good,Good classroom participation
+STU062,2025-06-14,Late,Arrived late
+STU062,2025-06-19,Helping Others,Helped classmates
+STU062,2025-06-04,Good,Good classroom participation
+STU062,2025-06-03,Helping Others,Helped classmates
+STU062,2025-06-18,Discipline Issue,Classroom discipline issue
+STU063,2025-06-01,Late,Arrived late
+STU063,2025-06-18,Late,Arrived late
+STU063,2025-06-17,Homework Missing,Homework not submitted
+STU064,2025-06-17,Excellent,Outstanding performance
+STU064,2025-06-18,Homework Missing,Homework not submitted
+STU064,2025-06-04,Discipline Issue,Classroom discipline issue
+STU064,2025-06-04,Good,Good classroom participation
+STU064,2025-06-20,Good,Good classroom participation
+STU065,2025-06-18,Excellent,Outstanding performance
+STU065,2025-06-11,Late,Arrived late
+STU065,2025-06-02,Excellent,Outstanding performance
+STU066,2025-06-07,Homework Missing,Homework not submitted
+STU066,2025-06-06,Discipline Issue,Classroom discipline issue
+STU066,2025-06-18,Excellent,Outstanding performance
+STU067,2025-06-03,Excellent,Outstanding performance
+STU067,2025-06-17,Excellent,Outstanding performance
+STU067,2025-06-12,Helping Others,Helped classmates
+STU067,2025-06-06,Homework Missing,Homework not submitted
+STU068,2025-06-01,Discipline Issue,Classroom discipline issue
+STU068,2025-06-10,Good,Good classroom participation
+STU068,2025-06-17,Excellent,Outstanding performance
+STU068,2025-06-18,Helping Others,Helped classmates
+STU068,2025-06-05,Late,Arrived late
+STU069,2025-06-11,Late,Arrived late
+STU069,2025-06-12,Homework Missing,Homework not submitted
+STU069,2025-06-18,Homework Missing,Homework not submitted
+STU069,2025-06-07,Homework Missing,Homework not submitted
+STU069,2025-06-04,Discipline Issue,Classroom discipline issue
+STU069,2025-06-02,Discipline Issue,Classroom discipline issue
+STU070,2025-06-07,Excellent,Outstanding performance
+STU070,2025-06-10,Good,Good classroom participation
+STU070,2025-06-05,Good,Good classroom participation
+STU071,2025-06-07,Homework Missing,Homework not submitted
+STU071,2025-06-12,Homework Missing,Homework not submitted
+STU071,2025-06-05,Helping Others,Helped classmates
+STU071,2025-06-20,Discipline Issue,Classroom discipline issue
+STU071,2025-06-03,Late,Arrived late
+STU071,2025-06-09,Homework Missing,Homework not submitted
+STU072,2025-06-06,Late,Arrived late
+STU072,2025-06-15,Late,Arrived late
+STU072,2025-06-09,Excellent,Outstanding performance
+STU072,2025-06-14,Discipline Issue,Classroom discipline issue
+STU073,2025-06-07,Homework Missing,Homework not submitted
+STU073,2025-06-09,Excellent,Outstanding performance
+STU073,2025-06-07,Discipline Issue,Classroom discipline issue
+STU074,2025-06-17,Homework Missing,Homework not submitted
+STU074,2025-06-06,Homework Missing,Homework not submitted
+STU074,2025-06-05,Late,Arrived late
+STU074,2025-06-14,Helping Others,Helped classmates
+STU075,2025-06-20,Excellent,Outstanding performance
+STU075,2025-06-03,Good,Good classroom participation
+STU075,2025-06-04,Helping Others,Helped classmates
+STU075,2025-06-04,Homework Missing,Homework not submitted
+STU075,2025-06-18,Discipline Issue,Classroom discipline issue
+STU076,2025-06-11,Excellent,Outstanding performance
+STU076,2025-06-03,Discipline Issue,Classroom discipline issue
+STU076,2025-06-11,Helping Others,Helped classmates
+STU076,2025-06-05,Helping Others,Helped classmates
+STU076,2025-06-09,Good,Good classroom participation
+STU077,2025-06-13,Excellent,Outstanding performance
+STU077,2025-06-13,Good,Good classroom participation
+STU078,2025-06-06,Excellent,Outstanding performance
+STU078,2025-06-10,Homework Missing,Homework not submitted
+STU079,2025-06-04,Late,Arrived late
+STU079,2025-06-12,Homework Missing,Homework not submitted
+STU079,2025-06-19,Discipline Issue,Classroom discipline issue
+STU079,2025-06-18,Helping Others,Helped classmates
+STU079,2025-06-20,Helping Others,Helped classmates
+STU079,2025-06-02,Excellent,Outstanding performance
+STU080,2025-06-13,Helping Others,Helped classmates
+STU080,2025-06-12,Good,Good classroom participation
+STU080,2025-06-18,Discipline Issue,Classroom discipline issue
+STU081,2025-06-13,Homework Missing,Homework not submitted
+STU081,2025-06-19,Late,Arrived late
+STU081,2025-06-09,Good,Good classroom participation
+STU081,2025-06-17,Excellent,Outstanding performance
+STU081,2025-06-05,Discipline Issue,Classroom discipline issue
+STU081,2025-06-05,Discipline Issue,Classroom discipline issue
+STU082,2025-06-19,Late,Arrived late
+STU082,2025-06-09,Discipline Issue,Classroom discipline issue
+STU082,2025-06-12,Excellent,Outstanding performance
+STU083,2025-06-20,Discipline Issue,Classroom discipline issue
+STU083,2025-06-15,Late,Arrived late
+STU083,2025-06-15,Good,Good classroom participation
+STU084,2025-06-17,Late,Arrived late
+STU084,2025-06-09,Helping Others,Helped classmates
+STU084,2025-06-17,Late,Arrived late
+STU084,2025-06-08,Discipline Issue,Classroom discipline issue
+STU085,2025-06-03,Discipline Issue,Classroom discipline issue
+STU085,2025-06-14,Helping Others,Helped classmates
+STU085,2025-06-03,Helping Others,Helped classmates
+STU085,2025-06-03,Discipline Issue,Classroom discipline issue
+STU086,2025-06-08,Discipline Issue,Classroom discipline issue
+STU086,2025-06-06,Excellent,Outstanding performance
+STU087,2025-06-03,Excellent,Outstanding performance
+STU087,2025-06-10,Discipline Issue,Classroom discipline issue
+STU087,2025-06-16,Homework Missing,Homework not submitted
+STU087,2025-06-14,Excellent,Outstanding performance
+STU087,2025-06-17,Discipline Issue,Classroom discipline issue
+STU087,2025-06-05,Discipline Issue,Classroom discipline issue
+STU088,2025-06-17,Late,Arrived late
+STU088,2025-06-18,Discipline Issue,Classroom discipline issue
+STU088,2025-06-04,Discipline Issue,Classroom discipline issue
+STU088,2025-06-01,Late,Arrived late
+STU088,2025-06-07,Homework Missing,Homework not submitted
+STU089,2025-06-14,Discipline Issue,Classroom discipline issue
+STU089,2025-06-18,Discipline Issue,Classroom discipline issue
+STU090,2025-06-17,Good,Good classroom participation
+STU090,2025-06-20,Discipline Issue,Classroom discipline issue
+STU090,2025-06-20,Excellent,Outstanding performance
+STU090,2025-06-06,Late,Arrived late
+STU091,2025-06-06,Good,Good classroom participation
+STU091,2025-06-12,Excellent,Outstanding performance
+STU091,2025-06-17,Good,Good classroom participation
+STU091,2025-06-02,Helping Others,Helped classmates
+STU091,2025-06-16,Late,Arrived late
+STU091,2025-06-06,Late,Arrived late
+STU092,2025-06-11,Excellent,Outstanding performance
+STU092,2025-06-08,Discipline Issue,Classroom discipline issue
+STU092,2025-06-04,Homework Missing,Homework not submitted
+STU092,2025-06-10,Helping Others,Helped classmates
+STU093,2025-06-09,Helping Others,Helped classmates
+STU093,2025-06-01,Good,Good classroom participation
+STU093,2025-06-19,Discipline Issue,Classroom discipline issue
+STU093,2025-06-07,Late,Arrived late
+STU093,2025-06-17,Helping Others,Helped classmates
+STU094,2025-06-20,Late,Arrived late
+STU094,2025-06-02,Late,Arrived late
+STU095,2025-06-20,Excellent,Outstanding performance
+STU095,2025-06-11,Late,Arrived late
+STU095,2025-06-12,Helping Others,Helped classmates
+STU095,2025-06-01,Excellent,Outstanding performance
+STU096,2025-06-06,Discipline Issue,Classroom discipline issue
+STU096,2025-06-12,Late,Arrived late
+STU096,2025-06-04,Excellent,Outstanding performance
+STU096,2025-06-16,Late,Arrived late
+STU097,2025-06-17,Excellent,Outstanding performance
+STU097,2025-06-05,Homework Missing,Homework not submitted
+STU097,2025-06-04,Late,Arrived late
+STU098,2025-06-05,Excellent,Outstanding performance
+STU098,2025-06-09,Discipline Issue,Classroom discipline issue
+STU098,2025-06-16,Good,Good classroom participation
+STU098,2025-06-12,Late,Arrived late
+STU098,2025-06-12,Helping Others,Helped classmates
+STU099,2025-06-18,Good,Good classroom participation
+STU099,2025-06-04,Helping Others,Helped classmates
+STU099,2025-06-15,Late,Arrived late
+STU099,2025-06-05,Good,Good classroom participation
+STU099,2025-06-14,Helping Others,Helped classmates
+STU100,2025-06-07,Helping Others,Helped classmates
+STU100,2025-06-07,Excellent,Outstanding performance
+STU101,2025-06-05,Excellent,Outstanding performance
+STU101,2025-06-14,Late,Arrived late
+STU101,2025-06-11,Discipline Issue,Classroom discipline issue
+STU101,2025-06-06,Excellent,Outstanding performance
+STU102,2025-06-09,Late,Arrived late
+STU102,2025-06-14,Excellent,Outstanding performance
+STU102,2025-06-18,Late,Arrived late
+STU103,2025-06-05,Discipline Issue,Classroom discipline issue
+STU103,2025-06-13,Helping Others,Helped classmates
+STU103,2025-06-13,Homework Missing,Homework not submitted
+STU103,2025-06-04,Good,Good classroom participation
+STU103,2025-06-01,Excellent,Outstanding performance
+STU104,2025-06-12,Good,Good classroom participation
+STU104,2025-06-01,Homework Missing,Homework not submitted
+STU104,2025-06-08,Discipline Issue,Classroom discipline issue
+STU105,2025-06-11,Discipline Issue,Classroom discipline issue
+STU105,2025-06-20,Late,Arrived late
+STU106,2025-06-16,Late,Arrived late
+STU106,2025-06-10,Helping Others,Helped classmates
+STU107,2025-06-14,Excellent,Outstanding performance
+STU107,2025-06-20,Good,Good classroom participation
+STU107,2025-06-17,Good,Good classroom participation
+STU107,2025-06-08,Good,Good classroom participation
+STU107,2025-06-04,Helping Others,Helped classmates
+STU108,2025-06-08,Discipline Issue,Classroom discipline issue
+STU108,2025-06-14,Discipline Issue,Classroom discipline issue
+STU108,2025-06-16,Good,Good classroom participation
+STU108,2025-06-04,Discipline Issue,Classroom discipline issue
+STU109,2025-06-06,Homework Missing,Homework not submitted
+STU109,2025-06-19,Good,Good classroom participation
+STU109,2025-06-05,Discipline Issue,Classroom discipline issue
+STU109,2025-06-04,Good,Good classroom participation
+STU109,2025-06-13,Good,Good classroom participation
+STU109,2025-06-09,Excellent,Outstanding performance
+STU110,2025-06-14,Good,Good classroom participation
+STU110,2025-06-20,Excellent,Outstanding performance
+STU110,2025-06-03,Good,Good classroom participation
+STU111,2025-06-14,Late,Arrived late
+STU111,2025-06-10,Homework Missing,Homework not submitted
+STU112,2025-06-11,Good,Good classroom participation
+STU112,2025-06-16,Late,Arrived late
+STU112,2025-06-17,Excellent,Outstanding performance
+STU113,2025-06-02,Discipline Issue,Classroom discipline issue
+STU113,2025-06-04,Helping Others,Helped classmates
+STU113,2025-06-12,Helping Others,Helped classmates
+STU113,2025-06-12,Helping Others,Helped classmates
+STU113,2025-06-14,Discipline Issue,Classroom discipline issue
+STU114,2025-06-02,Helping Others,Helped classmates
+STU114,2025-06-02,Good,Good classroom participation
+STU114,2025-06-02,Excellent,Outstanding performance
+STU115,2025-06-10,Good,Good classroom participation
+STU115,2025-06-09,Late,Arrived late
+STU115,2025-06-04,Homework Missing,Homework not submitted
+STU115,2025-06-06,Late,Arrived late
+STU116,2025-06-12,Late,Arrived late
+STU116,2025-06-10,Helping Others,Helped classmates
+STU116,2025-06-04,Excellent,Outstanding performance
+STU116,2025-06-01,Discipline Issue,Classroom discipline issue
+STU117,2025-06-11,Good,Good classroom participation
+STU117,2025-06-12,Helping Others,Helped classmates
+STU117,2025-06-19,Discipline Issue,Classroom discipline issue
+STU117,2025-06-20,Homework Missing,Homework not submitted
+STU117,2025-06-08,Helping Others,Helped classmates
+STU117,2025-06-09,Discipline Issue,Classroom discipline issue
+STU118,2025-06-13,Homework Missing,Homework not submitted
+STU118,2025-06-04,Excellent,Outstanding performance
+STU118,2025-06-20,Good,Good classroom participation
+STU119,2025-06-19,Excellent,Outstanding performance
+STU119,2025-06-07,Discipline Issue,Classroom discipline issue
+STU120,2025-06-15,Discipline Issue,Classroom discipline issue
+STU120,2025-06-03,Excellent,Outstanding performance
+STU120,2025-06-20,Homework Missing,Homework not submitted
+STU121,2025-06-16,Helping Others,Helped classmates
+STU121,2025-06-18,Good,Good classroom participation
+STU121,2025-06-05,Discipline Issue,Classroom discipline issue
+STU121,2025-06-05,Excellent,Outstanding performance
+STU122,2025-06-18,Late,Arrived late
+STU122,2025-06-09,Discipline Issue,Classroom discipline issue
+STU122,2025-06-12,Homework Missing,Homework not submitted
+STU123,2025-06-04,Late,Arrived late
+STU123,2025-06-03,Late,Arrived late
+STU123,2025-06-14,Late,Arrived late
+STU123,2025-06-17,Homework Missing,Homework not submitted
+STU124,2025-06-20,Good,Good classroom participation
+STU124,2025-06-05,Helping Others,Helped classmates
+STU125,2025-06-19,Excellent,Outstanding performance
+STU125,2025-06-07,Excellent,Outstanding performance
+STU125,2025-06-13,Discipline Issue,Classroom discipline issue
+STU125,2025-06-18,Late,Arrived late
+STU126,2025-06-06,Excellent,Outstanding performance
+STU126,2025-06-17,Late,Arrived late
+STU126,2025-06-18,Late,Arrived late
+STU126,2025-06-13,Late,Arrived late
+STU126,2025-06-09,Homework Missing,Homework not submitted
+STU126,2025-06-06,Good,Good classroom participation
+STU127,2025-06-19,Good,Good classroom participation
+STU127,2025-06-19,Good,Good classroom participation
+STU128,2025-06-15,Homework Missing,Homework not submitted
+STU128,2025-06-17,Homework Missing,Homework not submitted
+STU129,2025-06-08,Helping Others,Helped classmates
+STU129,2025-06-09,Helping Others,Helped classmates
+STU129,2025-06-04,Homework Missing,Homework not submitted
+STU129,2025-06-08,Good,Good classroom participation
+STU130,2025-06-08,Homework Missing,Homework not submitted
+STU130,2025-06-02,Helping Others,Helped classmates
+STU131,2025-06-05,Helping Others,Helped classmates
+STU131,2025-06-02,Helping Others,Helped classmates
+STU131,2025-06-08,Discipline Issue,Classroom discipline issue
+STU132,2025-06-04,Homework Missing,Homework not submitted
+STU132,2025-06-12,Excellent,Outstanding performance
+STU132,2025-06-20,Discipline Issue,Classroom discipline issue
+STU133,2025-06-03,Helping Others,Helped classmates
+STU133,2025-06-18,Discipline Issue,Classroom discipline issue
+STU133,2025-06-05,Helping Others,Helped classmates
+STU133,2025-06-20,Late,Arrived late
+STU134,2025-06-02,Helping Others,Helped classmates
+STU134,2025-06-01,Discipline Issue,Classroom discipline issue
+STU134,2025-06-08,Helping Others,Helped classmates
+STU134,2025-06-09,Discipline Issue,Classroom discipline issue
+STU135,2025-06-01,Helping Others,Helped classmates
+STU135,2025-06-19,Homework Missing,Homework not submitted
+STU135,2025-06-13,Excellent,Outstanding performance
+STU136,2025-06-20,Discipline Issue,Classroom discipline issue
+STU136,2025-06-07,Homework Missing,Homework not submitted
+STU136,2025-06-08,Late,Arrived late
+STU136,2025-06-09,Helping Others,Helped classmates
+STU137,2025-06-13,Homework Missing,Homework not submitted
+STU137,2025-06-15,Good,Good classroom participation
+STU137,2025-06-14,Good,Good classroom participation
+STU138,2025-06-16,Good,Good classroom participation
+STU138,2025-06-16,Excellent,Outstanding performance
+STU138,2025-06-15,Good,Good classroom participation
+STU138,2025-06-06,Good,Good classroom participation
+STU139,2025-06-16,Homework Missing,Homework not submitted
+STU139,2025-06-06,Discipline Issue,Classroom discipline issue
+STU139,2025-06-10,Discipline Issue,Classroom discipline issue
+STU140,2025-06-06,Helping Others,Helped classmates
+STU140,2025-06-13,Good,Good classroom participation
+STU141,2025-06-03,Good,Good classroom participation
+STU141,2025-06-03,Good,Good classroom participation
+STU141,2025-06-08,Late,Arrived late
+STU141,2025-06-13,Late,Arrived late
+STU141,2025-06-17,Excellent,Outstanding performance
+STU141,2025-06-01,Good,Good classroom participation
+STU142,2025-06-13,Excellent,Outstanding performance
+STU142,2025-06-01,Late,Arrived late
+STU142,2025-06-01,Excellent,Outstanding performance
+STU142,2025-06-02,Discipline Issue,Classroom discipline issue
+STU142,2025-06-08,Good,Good classroom participation
+STU142,2025-06-09,Excellent,Outstanding performance
+STU143,2025-06-20,Discipline Issue,Classroom discipline issue
+STU143,2025-06-01,Excellent,Outstanding performance
+STU143,2025-06-18,Excellent,Outstanding performance
+STU144,2025-06-03,Discipline Issue,Classroom discipline issue
+STU144,2025-06-05,Good,Good classroom participation
+STU144,2025-06-19,Late,Arrived late
+STU144,2025-06-06,Late,Arrived late
+STU145,2025-06-16,Helping Others,Helped classmates
+STU145,2025-06-08,Good,Good classroom participation
+STU145,2025-06-18,Excellent,Outstanding performance
+STU145,2025-06-09,Discipline Issue,Classroom discipline issue
+STU146,2025-06-01,Excellent,Outstanding performance
+STU146,2025-06-04,Excellent,Outstanding performance
+STU146,2025-06-10,Homework Missing,Homework not submitted
+STU146,2025-06-17,Excellent,Outstanding performance
+STU146,2025-06-05,Late,Arrived late
+STU146,2025-06-08,Excellent,Outstanding performance
+STU147,2025-06-14,Good,Good classroom participation
+STU147,2025-06-05,Late,Arrived late
+STU148,2025-06-10,Discipline Issue,Classroom discipline issue
+STU148,2025-06-13,Good,Good classroom participation
+STU148,2025-06-04,Discipline Issue,Classroom discipline issue
+STU148,2025-06-06,Late,Arrived late
+STU149,2025-06-04,Good,Good classroom participation
+STU149,2025-06-12,Helping Others,Helped classmates
+STU150,2025-06-11,Homework Missing,Homework not submitted
+STU150,2025-06-12,Excellent,Outstanding performance
+STU151,2025-06-20,Excellent,Outstanding performance
+STU151,2025-06-06,Good,Good classroom participation
+STU152,2025-06-11,Homework Missing,Homework not submitted
+STU152,2025-06-06,Homework Missing,Homework not submitted
+STU152,2025-06-14,Discipline Issue,Classroom discipline issue
+STU152,2025-06-10,Good,Good classroom participation
+STU152,2025-06-10,Homework Missing,Homework not submitted
+STU153,2025-06-09,Excellent,Outstanding performance
+STU153,2025-06-12,Late,Arrived late
+STU153,2025-06-03,Helping Others,Helped classmates
+STU153,2025-06-05,Excellent,Outstanding performance
+STU154,2025-06-05,Helping Others,Helped classmates
+STU154,2025-06-15,Late,Arrived late
+STU154,2025-06-16,Discipline Issue,Classroom discipline issue
+STU155,2025-06-19,Excellent,Outstanding performance
+STU155,2025-06-09,Late,Arrived late
+STU156,2025-06-11,Excellent,Outstanding performance
+STU156,2025-06-06,Good,Good classroom participation
+STU156,2025-06-12,Late,Arrived late
+STU157,2025-06-14,Late,Arrived late
+STU157,2025-06-14,Late,Arrived late
+STU157,2025-06-11,Homework Missing,Homework not submitted
+STU157,2025-06-08,Good,Good classroom participation
+STU158,2025-06-18,Late,Arrived late
+STU158,2025-06-18,Late,Arrived late
+STU158,2025-06-16,Homework Missing,Homework not submitted
+STU158,2025-06-18,Homework Missing,Homework not submitted
+STU158,2025-06-13,Good,Good classroom participation
+STU159,2025-06-14,Homework Missing,Homework not submitted
+STU159,2025-06-19,Homework Missing,Homework not submitted
+STU160,2025-06-03,Discipline Issue,Classroom discipline issue
+STU160,2025-06-12,Good,Good classroom participation
+STU160,2025-06-07,Excellent,Outstanding performance
+STU161,2025-06-18,Helping Others,Helped classmates
+STU161,2025-06-05,Late,Arrived late
+STU162,2025-06-12,Excellent,Outstanding performance
+STU162,2025-06-05,Helping Others,Helped classmates
+STU163,2025-06-05,Late,Arrived late
+STU163,2025-06-14,Homework Missing,Homework not submitted
+STU163,2025-06-07,Good,Good classroom participation
+STU163,2025-06-02,Good,Good classroom participation
+STU164,2025-06-05,Excellent,Outstanding performance
+STU164,2025-06-01,Late,Arrived late
+STU164,2025-06-14,Discipline Issue,Classroom discipline issue
+STU165,2025-06-04,Excellent,Outstanding performance
+STU165,2025-06-19,Discipline Issue,Classroom discipline issue
+STU165,2025-06-16,Excellent,Outstanding performance
+STU165,2025-06-06,Homework Missing,Homework not submitted
+STU166,2025-06-12,Good,Good classroom participation
+STU166,2025-06-03,Good,Good classroom participation
+STU167,2025-06-01,Excellent,Outstanding performance
+STU167,2025-06-14,Homework Missing,Homework not submitted
+STU167,2025-06-06,Good,Good classroom participation
+STU168,2025-06-05,Discipline Issue,Classroom discipline issue
+STU168,2025-06-17,Discipline Issue,Classroom discipline issue
+STU168,2025-06-10,Discipline Issue,Classroom discipline issue
+STU168,2025-06-14,Late,Arrived late
+STU168,2025-06-11,Discipline Issue,Classroom discipline issue
+STU169,2025-06-01,Discipline Issue,Classroom discipline issue
+STU169,2025-06-04,Helping Others,Helped classmates
+STU169,2025-06-02,Good,Good classroom participation
+STU169,2025-06-02,Discipline Issue,Classroom discipline issue
+STU169,2025-06-06,Homework Missing,Homework not submitted
+STU170,2025-06-01,Good,Good classroom participation
+STU170,2025-06-14,Late,Arrived late
+STU170,2025-06-15,Discipline Issue,Classroom discipline issue
+STU170,2025-06-09,Homework Missing,Homework not submitted
+STU170,2025-06-17,Homework Missing,Homework not submitted
+STU170,2025-06-08,Helping Others,Helped classmates
+STU171,2025-06-09,Good,Good classroom participation
+STU171,2025-06-17,Excellent,Outstanding performance
+STU171,2025-06-05,Late,Arrived late
+STU171,2025-06-07,Discipline Issue,Classroom discipline issue
+STU171,2025-06-20,Late,Arrived late
+STU172,2025-06-13,Good,Good classroom participation
+STU172,2025-06-18,Good,Good classroom participation
+STU173,2025-06-15,Excellent,Outstanding performance
+STU173,2025-06-11,Late,Arrived late
+STU173,2025-06-13,Discipline Issue,Classroom discipline issue
+STU173,2025-06-06,Late,Arrived late
+STU173,2025-06-12,Excellent,Outstanding performance
+STU173,2025-06-14,Discipline Issue,Classroom discipline issue
+STU174,2025-06-04,Helping Others,Helped classmates
+STU174,2025-06-03,Excellent,Outstanding performance
+STU174,2025-06-20,Helping Others,Helped classmates
+STU175,2025-06-08,Excellent,Outstanding performance
+STU175,2025-06-06,Helping Others,Helped classmates
+STU175,2025-06-04,Homework Missing,Homework not submitted
+STU175,2025-06-07,Excellent,Outstanding performance
+STU176,2025-06-10,Excellent,Outstanding performance
+STU176,2025-06-18,Good,Good classroom participation
+STU176,2025-06-02,Good,Good classroom participation
+STU176,2025-06-09,Good,Good classroom participation
+STU176,2025-06-19,Excellent,Outstanding performance
+STU176,2025-06-02,Homework Missing,Homework not submitted
+STU177,2025-06-02,Late,Arrived late
+STU177,2025-06-11,Excellent,Outstanding performance
+STU177,2025-06-10,Excellent,Outstanding performance
+STU177,2025-06-12,Excellent,Outstanding performance
+STU177,2025-06-13,Helping Others,Helped classmates
+STU177,2025-06-07,Homework Missing,Homework not submitted
+STU178,2025-06-12,Late,Arrived late
+STU178,2025-06-04,Good,Good classroom participation
+STU178,2025-06-14,Helping Others,Helped classmates
+STU178,2025-06-17,Discipline Issue,Classroom discipline issue
+STU179,2025-06-05,Homework Missing,Homework not submitted
+STU179,2025-06-19,Excellent,Outstanding performance
+STU180,2025-06-19,Late,Arrived late
+STU180,2025-06-10,Excellent,Outstanding performance
+STU180,2025-06-05,Good,Good classroom participation
+STU180,2025-06-15,Discipline Issue,Classroom discipline issue
+STU180,2025-06-03,Excellent,Outstanding performance
+STU181,2025-06-05,Good,Good classroom participation
+STU181,2025-06-06,Discipline Issue,Classroom discipline issue
+STU181,2025-06-17,Homework Missing,Homework not submitted
+STU182,2025-06-17,Discipline Issue,Classroom discipline issue
+STU182,2025-06-15,Helping Others,Helped classmates
+STU182,2025-06-11,Good,Good classroom participation
+STU182,2025-06-12,Helping Others,Helped classmates
+STU182,2025-06-14,Homework Missing,Homework not submitted
+STU182,2025-06-13,Excellent,Outstanding performance
+STU183,2025-06-20,Good,Good classroom participation
+STU183,2025-06-03,Homework Missing,Homework not submitted
+STU183,2025-06-19,Good,Good classroom participation
+STU184,2025-06-01,Excellent,Outstanding performance
+STU184,2025-06-10,Good,Good classroom participation
+STU184,2025-06-03,Homework Missing,Homework not submitted
+STU184,2025-06-04,Late,Arrived late
+STU184,2025-06-11,Late,Arrived late
+STU185,2025-06-06,Helping Others,Helped classmates
+STU185,2025-06-09,Excellent,Outstanding performance
+STU185,2025-06-12,Homework Missing,Homework not submitted
+STU186,2025-06-03,Excellent,Outstanding performance
+STU186,2025-06-15,Good,Good classroom participation
+STU186,2025-06-16,Helping Others,Helped classmates
+STU186,2025-06-15,Helping Others,Helped classmates
+STU187,2025-06-19,Excellent,Outstanding performance
+STU187,2025-06-02,Late,Arrived late
+STU187,2025-06-10,Helping Others,Helped classmates
+STU188,2025-06-20,Late,Arrived late
+STU188,2025-06-05,Discipline Issue,Classroom discipline issue
+STU188,2025-06-12,Late,Arrived late
+STU188,2025-06-20,Homework Missing,Homework not submitted
+STU188,2025-06-12,Helping Others,Helped classmates
+STU189,2025-06-14,Discipline Issue,Classroom discipline issue
+STU189,2025-06-15,Homework Missing,Homework not submitted
+STU190,2025-06-02,Discipline Issue,Classroom discipline issue
+STU190,2025-06-02,Homework Missing,Homework not submitted
+STU190,2025-06-08,Discipline Issue,Classroom discipline issue
+STU190,2025-06-18,Discipline Issue,Classroom discipline issue
+STU191,2025-06-04,Good,Good classroom participation
+STU191,2025-06-13,Helping Others,Helped classmates
+STU192,2025-06-13,Homework Missing,Homework not submitted
+STU192,2025-06-08,Excellent,Outstanding performance
+STU192,2025-06-15,Late,Arrived late
+STU193,2025-06-15,Helping Others,Helped classmates
+STU193,2025-06-18,Late,Arrived late
+STU194,2025-06-03,Excellent,Outstanding performance
+STU194,2025-06-04,Good,Good classroom participation
+STU194,2025-06-14,Late,Arrived late
+STU194,2025-06-13,Good,Good classroom participation
+STU194,2025-06-03,Helping Others,Helped classmates
+STU195,2025-06-20,Helping Others,Helped classmates
+STU195,2025-06-07,Late,Arrived late
+STU195,2025-06-16,Discipline Issue,Classroom discipline issue
+STU195,2025-06-09,Excellent,Outstanding performance
+STU196,2025-06-18,Excellent,Outstanding performance
+STU196,2025-06-16,Good,Good classroom participation
+STU196,2025-06-07,Good,Good classroom participation
+STU196,2025-06-19,Helping Others,Helped classmates
+STU196,2025-06-20,Excellent,Outstanding performance
+STU197,2025-06-12,Excellent,Outstanding performance
+STU197,2025-06-16,Late,Arrived late
+STU197,2025-06-02,Good,Good classroom participation
+STU197,2025-06-01,Good,Good classroom participation
+STU197,2025-06-14,Discipline Issue,Classroom discipline issue
+STU198,2025-06-06,Helping Others,Helped classmates
+STU198,2025-06-05,Excellent,Outstanding performance
+STU198,2025-06-09,Excellent,Outstanding performance
+STU198,2025-06-03,Late,Arrived late
+STU199,2025-06-15,Discipline Issue,Classroom discipline issue
+STU199,2025-06-17,Late,Arrived late
+STU199,2025-06-09,Good,Good classroom participation
+STU199,2025-06-02,Good,Good classroom participation
+STU200,2025-06-11,Late,Arrived late
+STU200,2025-06-06,Helping Others,Helped classmates
