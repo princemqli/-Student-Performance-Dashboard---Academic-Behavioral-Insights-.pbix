@@ -224,7 +224,8 @@ The dashboard enables educators and administrators to:
 
 ---
 ## Mobile View
-<img width="941" height="1672" alt="ChatGPT Image Jun 26, 2026, 10_24_55 AM" src="https://github.com/user-attachments/assets/505594ca-e81f-45a6-9730-1d5c275ea0ae" />
+<img width="941" height="1672" alt="Moblie view dashboard" src="https://github.com/user-attachments/assets/2d928859-f19d-4a23-80d5-b7c2a99112cd" />
+
 
 A dedicated mobile layout has been designed to provide a better experience on smartphones.
 
