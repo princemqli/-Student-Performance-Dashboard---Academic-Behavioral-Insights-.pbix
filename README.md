@@ -79,6 +79,72 @@ Custom tooltip pages are included to provide additional details when hovering ov
 - Responsive Layout
 
 ---
+## Power Query Transformations
+<img width="1707" height="888" alt="Screenshot 2026-06-26 at 10 56 42 AM" src="https://github.com/user-attachments/assets/217d7aa5-a7c5-47a2-a3d0-8c715bb7bd69" />
+<img width="1710" height="890" alt="Screenshot 2026-06-26 at 10 57 28 AM" src="https://github.com/user-attachments/assets/6dc02418-4cf1-4108-8499-fc433d9a4ed4" />
+<img width="1710" height="896" alt="Screenshot 2026-06-26 at 10 58 16 AM" src="https://github.com/user-attachments/assets/6033bfc5-24b6-43bb-aafc-f2dad1109f94" />
+<img width="1701" height="894" alt="Screenshot 2026-06-26 at 10 58 54 AM" src="https://github.com/user-attachments/assets/89c53e44-72cb-4c6a-9d8e-ff7b94e2d119" />
+
+
+
+
+
+The dataset was transformed and prepared using **Power Query Editor** to ensure clean, consistent, and analysis-ready data.
+
+
+
+### Transformations Performed
+
+* Removed duplicate records
+* Handled missing values
+* Changed data types
+* Renamed columns
+* Split & merged columns
+* Created custom columns
+* Applied filters and sorting
+* Standardized formatting
+* Optimized data before loading
+
+---
+
+## 📐 DAX Measures
+
+Custom **DAX Measures** were created to calculate KPIs and provide meaningful business insights for the dashboard.
+
+<p align="center">
+  <img src="images/dax-measures.png" width="1000">
+</p>
+
+### Key Measures
+
+* Total Students
+* Total Attendance
+* Average Marks
+* Pass Percentage
+* Average Behavior Score
+* Excellent Students
+* At-Risk Students
+* Overall Performance Score
+* Attendance Rate
+* Academic Performance Index
+
+---
+
+## 🗂️ Measure Table
+
+A dedicated **Measure Table** was created to organize all DAX calculations, improving report readability and maintainability.
+
+<p align="center">
+  <img src="images/measure-table.png" width="1000">
+</p>
+
+**Benefits**
+
+* Organized DAX measures
+* Easier maintenance
+* Better report structure
+* Improved developer experience
+
 
 ## 📂 Skills Demonstrated
 
