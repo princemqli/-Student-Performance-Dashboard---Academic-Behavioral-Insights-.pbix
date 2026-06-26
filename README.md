@@ -11,6 +11,7 @@ The dashboard is designed to make student data easier to understand for teachers
 ##  Dashboard Pages
 
 ---
+# Academic
 <img width="1710" height="989" alt="Academic Dashboard" src="https://github.com/user-attachments/assets/37006126-35e7-440b-9498-c101181f7679" />
 
 ###  Academic Dashboard
@@ -23,6 +24,7 @@ The dashboard is designed to make student data easier to understand for teachers
 - Interactive Filters
   
 ---
+# Behavior
 <img width="1710" height="988" alt="Behavior Dashboard" src="https://github.com/user-attachments/assets/7752f05d-b984-4499-9093-efa3662a5ce1" />
 
 
@@ -34,6 +36,7 @@ The dashboard is designed to make student data easier to understand for teachers
 - Behavioral Trend Analysis
 - Performance vs Attendance Comparison
 ---
+# Student Profile
 <img width="1710" height="991" alt="Student Profile" src="https://github.com/user-attachments/assets/2f23a873-f643-4a76-b341-5eed47088eb8" />
 
 ###  Student Profile
