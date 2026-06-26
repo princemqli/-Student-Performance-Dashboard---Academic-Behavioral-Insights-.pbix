@@ -1,6 +1,6 @@
-# 🎓 Student Performance Dashboard – Academic & Behavioral Insights
+# Student Performance Dashboard – Academic & Behavioral Insights
 
-## 📌 Overview
+##  Overview
 
 This Power BI dashboard analyzes student academic performance and behavioral patterns in a single interactive report. It helps identify performance trends, attendance issues, behavior indicators, and overall student progress using clear visualizations and KPIs.
 
@@ -8,9 +8,11 @@ The dashboard is designed to make student data easier to understand for teachers
 
 ---
 
-## 📊 Dashboard Pages
+##  Dashboard Pages
+<img width="1710" height="989" alt="Academic Dashboard" src="https://github.com/user-attachments/assets/37006126-35e7-440b-9498-c101181f7679" />
 
-### 📚 Academic Dashboard
+
+###  Academic Dashboard
 - Total Students
 - Average Marks
 - Pass Percentage
@@ -19,26 +21,26 @@ The dashboard is designed to make student data easier to understand for teachers
 - Student Performance Trend
 - Interactive Filters
 
-### 👨‍🎓 Behavior Dashboard
+###  Behavior Dashboard
 - Attendance Analysis
 - Discipline Records
 - Student Behavior Overview
 - Behavioral Trend Analysis
 - Performance vs Attendance Comparison
 
-### 👤 Student Profile
+###  Student Profile
 - Individual Student Details
 - Academic Performance
 - Attendance Summary
 - Behavior Summary
 - Overall Performance Snapshot
 
-### 💡 Tooltips
+###  Tooltips
 Custom tooltip pages are included to provide additional details when hovering over charts.
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - Microsoft Power BI Desktop
 - Power Query
