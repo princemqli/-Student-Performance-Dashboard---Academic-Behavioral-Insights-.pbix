@@ -161,6 +161,17 @@ A dedicated **Measure Table** was created to organize all DAX calculations, impr
 
 ---
 
+### Mobile Features
+- Mobile-optimized layout
+- Easy navigation
+- Touch-friendly visuals
+- Responsive KPI cards
+- Scroll-based dashboard
+- Interactive filters
+- Optimized chart placement
+
+The mobile version allows users to access important insights anytime and anywhere without compromising readabilit
+
 # 
 Student Performance Dashboard Features
 
@@ -212,6 +223,21 @@ The dashboard enables educators and administrators to:
 * Make informed academic decisions using interactive reports
 
 ---
+## Mobile View
+<img width="941" height="1672" alt="ChatGPT Image Jun 26, 2026, 10_24_55 AM" src="https://github.com/user-attachments/assets/505594ca-e81f-45a6-9730-1d5c275ea0ae" />
+
+A dedicated mobile layout has been designed to provide a better experience on smartphones.
+
+### Mobile Features
+- Mobile-optimized layout
+- Easy navigation
+- Touch-friendly visuals
+- Responsive KPI cards
+- Scroll-based dashboard
+- Interactive filters
+- Optimized chart placement
+
+The mobile version allows users to access important insights anytime and anywhere without compromising readability.
 
 
 
