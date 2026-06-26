@@ -238,7 +238,6 @@ A dedicated mobile layout has been designed to provide a better experience on sm
 - Interactive filters
 - Optimized chart placement
 
-The mobile version allows users to access important insights anytime and anywhere without compromising readability.
 
 
 
