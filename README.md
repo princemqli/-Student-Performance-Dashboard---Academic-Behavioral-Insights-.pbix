@@ -64,7 +64,7 @@ Custom tooltip pages are included to provide additional details when hovering ov
 - Data Modeling
 
 ---
-##  Data Model
+##  Data Modeling
 <img width="1362" height="787" alt="Screenshot 2026-06-26 at 10 55 22 AM" src="https://github.com/user-attachments/assets/3b62aee3-141b-4a4a-9d35-d12ea5e2dcd1" />
 
 
@@ -74,7 +74,8 @@ The project follows a Star Schema data model to improve performance and simplify
 - Scores (Fact)
 - Attendance (Fact)
 - Behavior (Fact)
-
+  
+---
 
 ##  Features
 
