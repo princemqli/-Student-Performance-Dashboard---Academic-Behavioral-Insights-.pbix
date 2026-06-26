@@ -65,10 +65,13 @@ Custom tooltip pages are included to provide additional details when hovering ov
 
 ---
 
-## 📈 Features
+##  Features
 
 - Interactive Dashboard
-- Drill Through
+  
+  # Drill Through
+- <img width="173" height="379" alt="Screenshot 2026-06-26 at 11 06 36 AM" src="https://github.com/user-attachments/assets/15e62305-6c78-457a-857e-4656f9c9804b" />
+
 - Custom Tooltips
 - Dynamic KPIs
 - Slicers & Filters
@@ -99,27 +102,6 @@ Custom tooltip pages are included to provide additional details when hovering ov
 
 ---
 
-## 📷 Dashboard Preview
 
-> Dashboard screenshots can be added here.
 
----
-
-## 👨‍💻 Author
-
-**Prince Mali**
-
-BCA Student | Data Analytics Enthusiast
-
-### Skills
-- Power BI
-- SQL
-- Python
-- Excel
-- Data Visualization
-- DAX
-- Power Query
-
----
-
-⭐ If you found this project useful, consider giving it a Star.
+--
