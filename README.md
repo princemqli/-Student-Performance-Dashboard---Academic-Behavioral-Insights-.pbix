@@ -133,6 +133,15 @@ Custom **DAX Measures** were created to calculate KPIs and provide meaningful bu
 ---
 
 ## Measure Table
+                                                                Project table
+<img width="213" height="246" alt="Screenshot 2026-06-26 at 11 02 58 AM" src="https://github.com/user-attachments/assets/0c8721fd-ec19-4191-9ce4-5c92d427759f" />
+<img width="159" height="175" alt="Screenshot 2026-06-26 at 11 04 01 AM" src="https://github.com/user-attachments/assets/0a2cd9fe-c031-4291-81d8-f0a94dd341fc" />
+<img width="216" height="364" alt="Screenshot 2026-06-26 at 11 04 56 AM" src="https://github.com/user-attachments/assets/ad09f1bd-5814-491a-b465-c8afc02fb75b" />
+<img width="212" height="345" alt="Screenshot 2026-06-26 at 11 05 48 AM" src="https://github.com/user-attachments/assets/ea938c40-a6db-4b8f-8f19-2177a83550bc" />
+
+
+
+
 
 A dedicated **Measure Table** was created to organize all DAX calculations, improving report readability and maintainability.
 
