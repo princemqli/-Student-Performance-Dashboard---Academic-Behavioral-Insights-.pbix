@@ -12,6 +12,7 @@ The dashboard is designed to make student data easier to understand for teachers
 
 ###  Academic Dashboard
 <img width="1710" height="989" alt="Academic Dashboard" src="https://github.com/user-attachments/assets/37006126-35e7-440b-9498-c101181f7679" />
+
 - Total Students
 - Average Marks
 - Pass Percentage
