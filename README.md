@@ -21,17 +21,16 @@ The dashboard is designed to make student data easier to understand for teachers
 - Grade Distribution
 - Student Performance Trend
 - Interactive Filters
-
 ---
 <img width="1710" height="988" alt="Behavior Dashboard" src="https://github.com/user-attachments/assets/7752f05d-b984-4499-9093-efa3662a5ce1" />
-
 ###  Behavior Dashboard
 - Attendance Analysis
 - Discipline Records
 - Student Behavior Overview
 - Behavioral Trend Analysis
 - Performance vs Attendance Comparison
-
+---
+<img width="1710" height="991" alt="Student Profile" src="https://github.com/user-attachments/assets/2f23a873-f643-4a76-b341-5eed47088eb8" />
 ###  Student Profile
 - Individual Student Details
 - Academic Performance
