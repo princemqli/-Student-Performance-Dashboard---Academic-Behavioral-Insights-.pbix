@@ -46,7 +46,12 @@ The dashboard is designed to make student data easier to understand for teachers
 - Behavior Summary
 - Overall Performance Snapshot
 
-###  Tooltips
+---
+# Tooltips
+<img width="1710" height="987" alt="Tooltips" src="https://github.com/user-attachments/assets/4587bb1e-edd4-4f40-88ac-2d0dd8f4697a" />
+
+
+###  Tooltips Dashboard
 Custom tooltip pages are included to provide additional details when hovering over charts.
 
 ---
