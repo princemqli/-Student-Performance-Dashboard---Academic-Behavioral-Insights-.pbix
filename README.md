@@ -159,34 +159,62 @@ A dedicated **Measure Table** was created to organize all DAX calculations, impr
 
 
 
-**Benefits**
+---
 
-* Organized DAX measures
-* Easier maintenance
-* Better report structure
+# 
+Student Performance Dashboard Features
 
-
-## Skills Demonstrated
-
-- Data Cleaning
-- Data Modeling
-- DAX Measures
-- Dashboard Design
-- Data Visualization
-- Report Optimization
-- Business Insights
+* Academic Performance Analysis
+* Student Attendance Tracking
+* Behavioral Performance Monitoring
+* Subject-wise Performance Analysis
+* Interactive KPIs & Slicers
+* Dynamic Filtering
+* Cross-Visual Interaction
+* Data-Driven Decision Support
 
 ---
 
-##  Key Insights
+# Tools & Technologies
 
-- Track academic performance across students.
-- Identify attendance patterns affecting results.
-- Compare behavior with academic outcomes.
-- Monitor overall student progress.
-- Support better academic decision-making.
+| Tool             | Purpose                        |
+| ---------------- | ------------------------------ |
+| Power BI Desktop | Dashboard Development          |
+| Power Query      | Data Cleaning & Transformation |
+| DAX              | KPI & Measure Calculations     |
+| Data Modeling    | Relationship Management        |
+| Excel            | Data Source                    |
 
 ---
+
+#  What I Learned
+
+This project helped me gain hands-on experience in:
+
+* Cleaning and transforming student data using Power Query
+* Building an efficient data model
+* Writing DAX measures for academic KPIs
+* Designing an interactive Power BI dashboard
+* Creating meaningful visualizations
+* Improving report performance
+* Converting raw student data into actionable insights
+
+---
+
+# Dashboard Outcome
+
+The dashboard enables educators and administrators to:
+
+* Monitor student academic performance
+* Analyze attendance trends
+* Evaluate behavioral patterns
+* Identify high-performing and at-risk students
+* Make informed academic decisions using interactive reports
+
+---
+
+
+
 
 
 
