@@ -152,10 +152,9 @@ A dedicated **Measure Table** was created to organize all DAX calculations, impr
 * Organized DAX measures
 * Easier maintenance
 * Better report structure
-* Improved developer experience
 
 
-## 📂 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - Data Modeling
@@ -167,7 +166,7 @@ A dedicated **Measure Table** was created to organize all DAX calculations, impr
 
 ---
 
-## 🎯 Key Insights
+##  Key Insights
 
 - Track academic performance across students.
 - Identify attendance patterns affecting results.
