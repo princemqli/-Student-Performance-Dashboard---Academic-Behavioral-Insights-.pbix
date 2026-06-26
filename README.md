@@ -107,13 +107,15 @@ The dataset was transformed and prepared using **Power Query Editor** to ensure 
 
 ---
 
-## 📐 DAX Measures
+##  DAX Measures
+<img width="375" height="726" alt="Screenshot 2026-06-26 at 11 49 07 AM" src="https://github.com/user-attachments/assets/992f2344-02a3-4de0-a432-c980a0cf4627" />
+<img width="321" height="776" alt="Screenshot 2026-06-26 at 11 49 51 AM" src="https://github.com/user-attachments/assets/67d2d0b2-5622-49ba-9175-ec554bce0379" />
+<img width="353" height="739" alt="Screenshot 2026-06-26 at 11 50 32 AM" src="https://github.com/user-attachments/assets/73e1506b-141b-452b-a8b9-c20d3b16516c" />
+
 
 Custom **DAX Measures** were created to calculate KPIs and provide meaningful business insights for the dashboard.
 
-<p align="center">
-  <img src="images/dax-measures.png" width="1000">
-</p>
+
 
 ### Key Measures
 
@@ -130,13 +132,11 @@ Custom **DAX Measures** were created to calculate KPIs and provide meaningful bu
 
 ---
 
-## 🗂️ Measure Table
+## Measure Table
 
 A dedicated **Measure Table** was created to organize all DAX calculations, improving report readability and maintainability.
 
-<p align="center">
-  <img src="images/measure-table.png" width="1000">
-</p>
+
 
 **Benefits**
 
