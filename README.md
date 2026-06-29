@@ -192,13 +192,13 @@ Student Performance Dashboard Features
 
 # Tools & Technologies
 
-| Tool             | Purpose                        |
-| ---------------- | ------------------------------ |
-| Power BI Desktop | Dashboard Development          |
-| Power Query      | Data Cleaning & Transformation |
-| DAX              | KPI & Measure Calculations     |
-| Data Modeling    | Relationship Management        |
-| Excel            | Data Source                    |
+Tool             | Purpose                        
+                   
+Power BI Desktop  Dashboard Development          
+Power Query       Data Cleaning & Transformation 
+DAX               KPI & Measure Calculations     
+Data Modeling     Relationship Management       
+Excel             Data Source                    
 
 ---
 
