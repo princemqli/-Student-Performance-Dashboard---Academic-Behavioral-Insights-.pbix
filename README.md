@@ -227,20 +227,7 @@ The dashboard enables educators and administrators to:
 * Make informed academic decisions using interactive reports
 
 ---
-## Mobile View
-<img width="941" height="1672" alt="Moblie view dashboard" src="https://github.com/user-attachments/assets/2d928859-f19d-4a23-80d5-b7c2a99112cd" />
 
-
-A dedicated mobile layout has been designed to provide a better experience on smartphones.
-
-### Mobile Features
-- Mobile-optimized layout
-- Easy navigation
-- Touch-friendly visuals
-- Responsive KPI cards
-- Scroll-based dashboard
-- Interactive filters
-- Optimized chart placement
 
 
 
