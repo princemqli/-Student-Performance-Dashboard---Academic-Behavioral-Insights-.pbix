@@ -177,17 +177,6 @@ A dedicated **Measure Table** was created to organize all DAX calculations, impr
 
 ---
 
-### Mobile Features
-- Mobile-optimized layout
-- Easy navigation
-- Touch-friendly visuals
-- Responsive KPI cards
-- Scroll-based dashboard
-- Interactive filters
-- Optimized chart placement
-
-The mobile version allows users to access important insights anytime and anywhere without compromising readabilit
-
 # 
 Student Performance Dashboard Features
 
