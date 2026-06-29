@@ -12,7 +12,8 @@ The dashboard is designed to make student data easier to understand for teachers
 
 ---
 # Academic
-<img width="1710" height="989" alt="Academic Dashboard" src="https://github.com/user-attachments/assets/37006126-35e7-440b-9498-c101181f7679" />
+<img width="1687" height="932" alt="Screenshot 2026-06-29 at 11 27 39 AM" src="https://github.com/user-attachments/assets/d2e04ddb-b742-47d8-ae1b-c70b42f0ec1a" />
+
 
 ###  Academic Dashboard
 - Total Students
