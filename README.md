@@ -12,7 +12,8 @@ The dashboard is designed to make student data easier to understand for teachers
 
 ---
 # Academic
-<img width="1687" height="932" alt="Screenshot 2026-06-29 at 11 27 39 AM" src="https://github.com/user-attachments/assets/d2e04ddb-b742-47d8-ae1b-c70b42f0ec1a" />
+<img width="1707" height="970" alt="Screenshot 2026-06-29 at 11 36 04 AM" src="https://github.com/user-attachments/assets/9cba6537-329b-4aac-86cd-ed5260da64f2" />
+
 
 
 ###  Academic Dashboard
@@ -26,7 +27,8 @@ The dashboard is designed to make student data easier to understand for teachers
   
 ---
 # Behavior
-<img width="1710" height="988" alt="Behavior Dashboard" src="https://github.com/user-attachments/assets/7752f05d-b984-4499-9093-efa3662a5ce1" />
+<img width="1699" height="968" alt="Screenshot 2026-06-29 at 11 36 45 AM" src="https://github.com/user-attachments/assets/699b766a-665a-498b-9f3b-c9e9c1603a2f" />
+
 
 
 
@@ -38,7 +40,8 @@ The dashboard is designed to make student data easier to understand for teachers
 - Performance vs Attendance Comparison
 ---
 # Student Profile
-<img width="1710" height="991" alt="Student Profile" src="https://github.com/user-attachments/assets/2f23a873-f643-4a76-b341-5eed47088eb8" />
+<img width="1710" height="968" alt="Screenshot 2026-06-29 at 11 37 28 AM" src="https://github.com/user-attachments/assets/1f57ec37-9b53-40a5-9905-b882b6834bad" />
+
 
 ###  Student Profile
 - Individual Student Details
@@ -49,7 +52,8 @@ The dashboard is designed to make student data easier to understand for teachers
 
 ---
 # Tooltips
-<img width="1710" height="987" alt="Tooltips" src="https://github.com/user-attachments/assets/4587bb1e-edd4-4f40-88ac-2d0dd8f4697a" />
+<img width="1702" height="975" alt="Screenshot 2026-06-29 at 11 38 00 AM" src="https://github.com/user-attachments/assets/6e9ae48d-a00c-44f6-82e4-b76c4c492ea8" />
+
 
 
 ###  Tooltips Dashboard
