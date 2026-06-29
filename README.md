@@ -97,13 +97,20 @@ The project follows a Star Schema data model to improve performance and simplify
 
 ---
 ## Power Query Transformations
+---
 # Student Dimension
 <img width="1707" height="888" alt="Screenshot 2026-06-26 at 10 56 42 AM" src="https://github.com/user-attachments/assets/217d7aa5-a7c5-47a2-a3d0-8c715bb7bd69" />
 
 ---
-# 
+# Score Fact 
 <img width="1710" height="890" alt="Screenshot 2026-06-26 at 10 57 28 AM" src="https://github.com/user-attachments/assets/6dc02418-4cf1-4108-8499-fc433d9a4ed4" />
+
+---
+# Attendence Dimension
 <img width="1710" height="896" alt="Screenshot 2026-06-26 at 10 58 16 AM" src="https://github.com/user-attachments/assets/6033bfc5-24b6-43bb-aafc-f2dad1109f94" />
+
+---
+# Behavior Calculations
 <img width="1701" height="894" alt="Screenshot 2026-06-26 at 10 58 54 AM" src="https://github.com/user-attachments/assets/89c53e44-72cb-4c6a-9d8e-ff7b94e2d119" />
 
 
